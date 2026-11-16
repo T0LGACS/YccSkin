@@ -1,3 +1,4 @@
+using CounterStrikeSharp.API.Modules.Cvars;
 using CounterStrikeSharp.API;
 using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API.Modules.Memory.DynamicFunctions;
@@ -265,7 +266,8 @@ public partial class YccSkin
     {
         var p = e.Attacker;
         var olen = e.Userid;
-        if (!Gercek(p) || olen == null || !olen.IsValid || olen == p || olen.TeamNum == p!.TeamNum) return;
+        // FFA sunucusunda (mp_teammates_are_enemies 1) aynı takımdan biri de rakiptir
+        if (!Gercek(p) || olen == null || !olen.IsValid || olen == p || (olen.TeamNum == p!.TeamNum && !TakimArkadasiDusman())) return;
         if (!_secim.TryGetValue(p.SteamID, out var s)) return;
         var w = p.PlayerPawn.Value?.WeaponServices?.ActiveWeapon.Value;
         if (w == null || !w.IsValid || SilahSahibi(w)?.Slot != p.Slot) return;
@@ -283,6 +285,8 @@ public partial class YccSkin
         w.FallbackStatTrak = sayi;
         Ozellik(w.AttributeManager.Item, "kill eater", Bit(sayi));
     }
+
+    private static bool TakimArkadasiDusman() => ConVar.Find("mp_teammates_are_enemies")?.GetPrimitiveValue<bool>() == true;
 
     // M4A1-S, USP-S vb. tasarım adı başka sınıf adı taşıyabildiği için tanımdan alınır
     private string SinifAdi(CBasePlayerWeapon w) =>
