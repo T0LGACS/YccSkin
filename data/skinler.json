@@ -1,0 +1,11760 @@
+{
+ "silahlar": [
+  {
+   "defindex": 7,
+   "ad": "weapon_ak47",
+   "isim": "AK-47",
+   "skinler": [
+    {
+     "id": 1449,
+     "isim": "AUTOEXEC"
+    },
+    {
+     "id": 1397,
+     "isim": "Afrodit"
+    },
+    {
+     "id": 474,
+     "isim": "Akuamarin İntikam",
+     "eski": true
+    },
+    {
+     "id": 921,
+     "isim": "Altın Arabesk",
+     "eski": true
+    },
+    {
+     "id": 959,
+     "isim": "Anubis'in Lejyonu",
+     "eski": true
+    },
+    {
+     "id": 801,
+     "isim": "Asiimov",
+     "eski": true
+    },
+    {
+     "id": 180,
+     "isim": "Ateş Yılanı",
+     "eski": true
+    },
+    {
+     "id": 1358,
+     "isim": "Atılım"
+    },
+    {
+     "id": 639,
+     "isim": "Avcılık Sporu",
+     "eski": true
+    },
+    {
+     "id": 745,
+     "isim": "Barok Moru",
+     "eski": true
+    },
+    {
+     "id": 341,
+     "isim": "Birinci Sınıf",
+     "eski": true
+    },
+    {
+     "id": 1143,
+     "isim": "Buz Kaplamalı",
+     "eski": true
+    },
+    {
+     "id": 142,
+     "isim": "Canavar B"
+    },
+    {
+     "id": 1466,
+     "isim": "Cinin Alâmetleri"
+    },
+    {
+     "id": 113,
+     "isim": "Dışlanmışlar"
+    },
+    {
+     "id": 795,
+     "isim": "Emniyet Ağı",
+     "eski": true
+    },
+    {
+     "id": 490,
+     "isim": "Frontside Misty",
+     "eski": true
+    },
+    {
+     "id": 1141,
+     "isim": "Gece Uykusu",
+     "eski": true
+    },
+    {
+     "id": 1218,
+     "isim": "Geceyarısı Boyası"
+    },
+    {
+     "id": 1288,
+     "isim": "Gri Vari Kamuflaj"
+    },
+    {
+     "id": 941,
+     "isim": "Hayalet Bozguncu",
+     "eski": true
+    },
+    {
+     "id": 456,
+     "isim": "Hidroponik",
+     "eski": true
+    },
+    {
+     "id": 316,
+     "isim": "Jaguar",
+     "eski": true
+    },
+    {
+     "id": 1221,
+     "isim": "Kafadan Vuruş",
+     "eski": true
+    },
+    {
+     "id": 506,
+     "isim": "Kargaşa Noktası",
+     "eski": true
+    },
+    {
+     "id": 394,
+     "isim": "Kartel",
+     "eski": true
+    },
+    {
+     "id": 1207,
+     "isim": "Kavurucu Öfke"
+    },
+    {
+     "id": 836,
+     "isim": "Keşfedilmemiş",
+     "eski": true
+    },
+    {
+     "id": 14,
+     "isim": "Kırmızı Laminant",
+     "eski": true
+    },
+    {
+     "id": 282,
+     "isim": "Kırmızı Çizgi",
+     "eski": true
+    },
+    {
+     "id": 1283,
+     "isim": "Kış Yeşili"
+    },
+    {
+     "id": 1087,
+     "isim": "Leet Museo",
+     "eski": true
+    },
+    {
+     "id": 226,
+     "isim": "Mavi Laminant",
+     "eski": true
+    },
+    {
+     "id": 1171,
+     "isim": "Miras"
+    },
+    {
+     "id": 600,
+     "isim": "Neon Devrimi",
+     "eski": true
+    },
+    {
+     "id": 707,
+     "isim": "Neon Sürücü",
+     "eski": true
+    },
+    {
+     "id": 1352,
+     "isim": "Oligark"
+    },
+    {
+     "id": 656,
+     "isim": "Orbit Mk01",
+     "eski": true
+    },
+    {
+     "id": 122,
+     "isim": "Orman Spreyi"
+    },
+    {
+     "id": 1018,
+     "isim": "Panthera onca",
+     "eski": true
+    },
+    {
+     "id": 1004,
+     "isim": "Röntgen",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 422,
+     "isim": "Seçkin Yapım",
+     "eski": true
+    },
+    {
+     "id": 1035,
+     "isim": "Simsiyah",
+     "eski": true
+    },
+    {
+     "id": 172,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 1425,
+     "isim": "Uçan Turna"
+    },
+    {
+     "id": 302,
+     "isim": "Vulkan",
+     "eski": true
+    },
+    {
+     "id": 724,
+     "isim": "Yabani Lotus",
+     "eski": true
+    },
+    {
+     "id": 524,
+     "isim": "Yakıt Enjektörü",
+     "eski": true
+    },
+    {
+     "id": 885,
+     "isim": "Yarış Faresi",
+     "eski": true
+    },
+    {
+     "id": 1309,
+     "isim": "Yeni Kızıl"
+    },
+    {
+     "id": 1070,
+     "isim": "Yeşil Laminant",
+     "eski": true
+    },
+    {
+     "id": 170,
+     "isim": "Yırtıcı"
+    },
+    {
+     "id": 340,
+     "isim": "Zengin Sınıfı",
+     "eski": true
+    },
+    {
+     "id": 1179,
+     "isim": "Zeytin Kamuflaj"
+    },
+    {
+     "id": 300,
+     "isim": "Zümrüt Çizgili",
+     "eski": true
+    },
+    {
+     "id": 912,
+     "isim": "Çapraz Geçiş"
+    },
+    {
+     "id": 1238,
+     "isim": "Çelik Delta",
+     "eski": true
+    },
+    {
+     "id": 380,
+     "isim": "Çöl İsyancısı",
+     "eski": true
+    },
+    {
+     "id": 675,
+     "isim": "İmparatoriçe",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 8,
+   "ad": "weapon_aug",
+   "isim": "AUG",
+   "skinler": [
+    {
+     "id": 455,
+     "isim": "Akihabara Benimsemesi",
+     "eski": true
+    },
+    {
+     "id": 583,
+     "isim": "Aristokrat",
+     "eski": true
+    },
+    {
+     "id": 10,
+     "isim": "Bakır Kafalı",
+     "eski": true
+    },
+    {
+     "id": 9,
+     "isim": "Bengal Kaplanı",
+     "eski": true
+    },
+    {
+     "id": 280,
+     "isim": "Bukalemun",
+     "eski": true
+    },
+    {
+     "id": 444,
+     "isim": "Daidalus"
+    },
+    {
+     "id": 913,
+     "isim": "Death by Puppy",
+     "eski": true
+    },
+    {
+     "id": 197,
+     "isim": "Eloksal Donanma"
+    },
+    {
+     "id": 541,
+     "isim": "Filo Yığını",
+     "eski": true
+    },
+    {
+     "id": 100,
+     "isim": "Fırtına"
+    },
+    {
+     "id": 727,
+     "isim": "Gece Yarısı Zambağı",
+     "eski": true
+    },
+    {
+     "id": 995,
+     "isim": "Gözetleme",
+     "eski": true
+    },
+    {
+     "id": 942,
+     "isim": "Haylaz Kedi",
+     "eski": true
+    },
+    {
+     "id": 73,
+     "isim": "Kanatlar",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 708,
+     "isim": "Kehribar Rüzgârı",
+     "eski": true
+    },
+    {
+     "id": 47,
+     "isim": "Koloni"
+    },
+    {
+     "id": 1308,
+     "isim": "Komando Bölüğü"
+    },
+    {
+     "id": 823,
+     "isim": "Kum Fırtınası",
+     "eski": true
+    },
+    {
+     "id": 927,
+     "isim": "Kuru Ahşap",
+     "eski": true
+    },
+    {
+     "id": 886,
+     "isim": "Kutup Kurdu",
+     "eski": true
+    },
+    {
+     "id": 1362,
+     "isim": "Kâbus"
+    },
+    {
+     "id": 173,
+     "isim": "Küçük Domuzcuk"
+    },
+    {
+     "id": 740,
+     "isim": "Lacivert Murano",
+     "eski": true
+    },
+    {
+     "id": 1464,
+     "isim": "Lacivert Taş"
+    },
+    {
+     "id": 121,
+     "isim": "Lüks Kıyafet"
+    },
+    {
+     "id": 110,
+     "isim": "Mahkûm"
+    },
+    {
+     "id": 845,
+     "isim": "Momentum",
+     "eski": true
+    },
+    {
+     "id": 1033,
+     "isim": "Oyulmuş Yeşim",
+     "eski": true
+    },
+    {
+     "id": 46,
+     "isim": "Paralı Asker"
+    },
+    {
+     "id": 375,
+     "isim": "Radyasyon Tehlikesi"
+    },
+    {
+     "id": 779,
+     "isim": "Rastgele Erişim",
+     "eski": true
+    },
+    {
+     "id": 507,
+     "isim": "Ricochet",
+     "eski": true
+    },
+    {
+     "id": 1452,
+     "isim": "Sinyal Tarayıcı"
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 690,
+     "isim": "Stymphalian",
+     "eski": true
+    },
+    {
+     "id": 601,
+     "isim": "Syd Mead",
+     "eski": true
+    },
+    {
+     "id": 33,
+     "isim": "Sıcak Güç"
+    },
+    {
+     "id": 794,
+     "isim": "Tarayıcı"
+    },
+    {
+     "id": 1339,
+     "isim": "Tetik Disiplini"
+    },
+    {
+     "id": 305,
+     "isim": "Tork",
+     "eski": true
+    },
+    {
+     "id": 758,
+     "isim": "Turuncu Jörmungandr",
+     "eski": true
+    },
+    {
+     "id": 1088,
+     "isim": "Veba",
+     "eski": true
+    },
+    {
+     "id": 1249,
+     "isim": "Yılan Çukuru",
+     "eski": true
+    },
+    {
+     "id": 134,
+     "isim": "Zapems'in Gözü"
+    },
+    {
+     "id": 1198,
+     "isim": "Çelik Nöbetçi"
+    },
+    {
+     "id": 674,
+     "isim": "Üç Kenarlı",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 9,
+   "ad": "weapon_awp",
+   "isim": "AWP",
+   "skinler": [
+    {
+     "id": 788,
+     "isim": "Acheron",
+     "eski": true
+    },
+    {
+     "id": 1324,
+     "isim": "Arsenik Dökülmesi"
+    },
+    {
+     "id": 279,
+     "isim": "Asiimov",
+     "eski": true
+    },
+    {
+     "id": 451,
+     "isim": "Aslan'daki Güneş",
+     "eski": true
+    },
+    {
+     "id": 838,
+     "isim": "Atheris",
+     "eski": true
+    },
+    {
+     "id": 174,
+     "isim": "BOOM",
+     "eski": true
+    },
+    {
+     "id": 344,
+     "isim": "Bilgin Ejderha",
+     "eski": true
+    },
+    {
+     "id": 1346,
+     "isim": "Buz Kaplamalı"
+    },
+    {
+     "id": 163,
+     "isim": "CMYK"
+    },
+    {
+     "id": 137,
+     "isim": "Crakow!"
+    },
+    {
+     "id": 975,
+     "isim": "Dış İskelet",
+     "eski": true
+    },
+    {
+     "id": 1378,
+     "isim": "Ekzotermik"
+    },
+    {
+     "id": 227,
+     "isim": "Elektrikli Kovan",
+     "eski": true
+    },
+    {
+     "id": 1058,
+     "isim": "Gazlı AWP",
+     "eski": true
+    },
+    {
+     "id": 212,
+     "isim": "Grafit",
+     "eski": true
+    },
+    {
+     "id": 756,
+     "isim": "Gungnir",
+     "eski": true
+    },
+    {
+     "id": 640,
+     "isim": "Hezeyan",
+     "eski": true
+    },
+    {
+     "id": 475,
+     "isim": "Hiper Canavar",
+     "eski": true
+    },
+    {
+     "id": 1465,
+     "isim": "Hükûmran Ateş"
+    },
+    {
+     "id": 1467,
+     "isim": "Kara Kutu"
+    },
+    {
+     "id": 1239,
+     "isim": "Kara Nil",
+     "eski": true
+    },
+    {
+     "id": 887,
+     "isim": "Karantinadan Kaçış",
+     "eski": true
+    },
+    {
+     "id": 1422,
+     "isim": "Kraliçenin Fermanı"
+    },
+    {
+     "id": 1170,
+     "isim": "Krom Topu"
+    },
+    {
+     "id": 943,
+     "isim": "Kılcal Damar",
+     "eski": true
+    },
+    {
+     "id": 259,
+     "isim": "Kırmızı Çizgi",
+     "eski": true
+    },
+    {
+     "id": 1213,
+     "isim": "LongDog"
+    },
+    {
+     "id": 395,
+     "isim": "Man-o'-war",
+     "eski": true
+    },
+    {
+     "id": 446,
+     "isim": "Medusa",
+     "eski": true
+    },
+    {
+     "id": 181,
+     "isim": "Mercan Ağacı",
+     "eski": true
+    },
+    {
+     "id": 803,
+     "isim": "Neo-Noir",
+     "eski": true
+    },
+    {
+     "id": 662,
+     "isim": "Oni Taiji",
+     "eski": true
+    },
+    {
+     "id": 718,
+     "isim": "PATİ",
+     "eski": true
+    },
+    {
+     "id": 84,
+     "isim": "Pembe DDPAT",
+     "eski": true
+    },
+    {
+     "id": 584,
+     "isim": "Phobos",
+     "eski": true
+    },
+    {
+     "id": 736,
+     "isim": "Prens",
+     "eski": true
+    },
+    {
+     "id": 1206,
+     "isim": "Printstream"
+    },
+    {
+     "id": 1144,
+     "isim": "Renk Sapmaları",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 525,
+     "isim": "Seçkin Yapım",
+     "eski": true
+    },
+    {
+     "id": 1026,
+     "isim": "Solgun"
+    },
+    {
+     "id": 424,
+     "isim": "Solucan Tanrısı",
+     "eski": true
+    },
+    {
+     "id": 250,
+     "isim": "Son Durak",
+     "eski": true
+    },
+    {
+     "id": 1356,
+     "isim": "The End"
+    },
+    {
+     "id": 917,
+     "isim": "Yaban Ateşi",
+     "eski": true
+    },
+    {
+     "id": 1280,
+     "isim": "Yeşil Enerji"
+    },
+    {
+     "id": 30,
+     "isim": "Yılan Kamuflaj"
+    },
+    {
+     "id": 51,
+     "isim": "Yıldırım Çarpması",
+     "eski": true
+    },
+    {
+     "id": 819,
+     "isim": "Çöl Hidrası",
+     "eski": true
+    },
+    {
+     "id": 251,
+     "isim": "Çıngıraklı Yılan",
+     "eski": true
+    },
+    {
+     "id": 691,
+     "isim": "Ölüm",
+     "eski": true
+    },
+    {
+     "id": 1222,
+     "isim": "İkililik",
+     "eski": true
+    },
+    {
+     "id": 1029,
+     "isim": "İpek Kaplan",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 63,
+   "ad": "weapon_cz75a",
+   "isim": "CZ75-Otomatik",
+   "skinler": [
+    {
+     "id": 1195,
+     "isim": "Bakır Fiber"
+    },
+    {
+     "id": 1390,
+     "isim": "Ballı Pateh"
+    },
+    {
+     "id": 268,
+     "isim": "Baskı Plaka",
+     "eski": true
+    },
+    {
+     "id": 602,
+     "isim": "Damga",
+     "eski": true
+    },
+    {
+     "id": 709,
+     "isim": "Eko",
+     "eski": true
+    },
+    {
+     "id": 269,
+     "isim": "Fuşya Zamanı"
+    },
+    {
+     "id": 933,
+     "isim": "Gece Yarısı Palmiyesi"
+    },
+    {
+     "id": 334,
+     "isim": "Girdap",
+     "eski": true
+    },
+    {
+     "id": 32,
+     "isim": "Gümüş"
+    },
+    {
+     "id": 218,
+     "isim": "Heksan",
+     "eski": true
+    },
+    {
+     "id": 1443,
+     "isim": "Hidrolik"
+    },
+    {
+     "id": 325,
+     "isim": "Kadeh",
+     "eski": true
+    },
+    {
+     "id": 350,
+     "isim": "Kaplan",
+     "eski": true
+    },
+    {
+     "id": 543,
+     "isim": "Kırmızı Astor",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 322,
+     "isim": "Nitro"
+    },
+    {
+     "id": 147,
+     "isim": "Orman Tireli"
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 1329,
+     "isim": "Pembe İnci"
+    },
+    {
+     "id": 435,
+     "isim": "Pol Pozisyon",
+     "eski": true
+    },
+    {
+     "id": 622,
+     "isim": "Polimer",
+     "eski": true
+    },
+    {
+     "id": 476,
+     "isim": "Sarı Ceket",
+     "eski": true
+    },
+    {
+     "id": 1064,
+     "isim": "Sendika",
+     "eski": true
+    },
+    {
+     "id": 937,
+     "isim": "Slalom"
+    },
+    {
+     "id": 297,
+     "isim": "Smokin"
+    },
+    {
+     "id": 687,
+     "isim": "Tacticat",
+     "eski": true
+    },
+    {
+     "id": 270,
+     "isim": "Victoria",
+     "eski": true
+    },
+    {
+     "id": 643,
+     "isim": "Xiangliu",
+     "eski": true
+    },
+    {
+     "id": 366,
+     "isim": "Yeşil Ekose",
+     "eski": true
+    },
+    {
+     "id": 859,
+     "isim": "Yeşil Kuvars",
+     "eski": true
+    },
+    {
+     "id": 1036,
+     "isim": "Yılan Kartalı",
+     "eski": true
+    },
+    {
+     "id": 944,
+     "isim": "Yıpranmış",
+     "eski": true
+    },
+    {
+     "id": 315,
+     "isim": "Zehirli Dart",
+     "eski": true
+    },
+    {
+     "id": 453,
+     "isim": "Zümrüt"
+    },
+    {
+     "id": 1076,
+     "isim": "Çerçeve",
+     "eski": true
+    },
+    {
+     "id": 333,
+     "isim": "Çivit"
+    },
+    {
+     "id": 976,
+     "isim": "İntikam",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 1,
+   "ad": "weapon_deagle",
+   "isim": "Desert Eagle",
+   "skinler": [
+    {
+     "id": 37,
+     "isim": "Alev"
+    },
+    {
+     "id": 1430,
+     "isim": "Alev Soluk"
+    },
+    {
+     "id": 185,
+     "isim": "Altın Koi",
+     "eski": true
+    },
+    {
+     "id": 992,
+     "isim": "Bronz",
+     "eski": true
+    },
+    {
+     "id": 425,
+     "isim": "Bronz Deko",
+     "eski": true
+    },
+    {
+     "id": 1360,
+     "isim": "Daily Deagle"
+    },
+    {
+     "id": 1458,
+     "isim": "Doğu Muamması"
+    },
+    {
+     "id": 1318,
+     "isim": "Dut"
+    },
+    {
+     "id": 328,
+     "isim": "El Topu",
+     "eski": true
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 1006,
+     "isim": "Gece Soygunu",
+     "eski": true
+    },
+    {
+     "id": 468,
+     "isim": "Gece Yarısı Fırtınası",
+     "eski": true
+    },
+    {
+     "id": 469,
+     "isim": "Gün Batımı Fırtınası 壱",
+     "eski": true
+    },
+    {
+     "id": 470,
+     "isim": "Gün Batımı Fırtınası 弐",
+     "eski": true
+    },
+    {
+     "id": 61,
+     "isim": "Hipnotik"
+    },
+    {
+     "id": 1054,
+     "isim": "Isıyla İşlenmiş"
+    },
+    {
+     "id": 841,
+     "isim": "Işık Hüzmesi",
+     "eski": true
+    },
+    {
+     "id": 114,
+     "isim": "Kaligrafiti"
+    },
+    {
+     "id": 509,
+     "isim": "Korint",
+     "eski": true
+    },
+    {
+     "id": 527,
+     "isim": "Kumicho Ejderi",
+     "eski": true
+    },
+    {
+     "id": 711,
+     "isim": "Kırmızı Alarm",
+     "eski": true
+    },
+    {
+     "id": 232,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 945,
+     "isim": "Mavi Kaplama",
+     "eski": true
+    },
+    {
+     "id": 805,
+     "isim": "Mecha Sanayi",
+     "eski": true
+    },
+    {
+     "id": 296,
+     "isim": "Meteor",
+     "eski": true
+    },
+    {
+     "id": 397,
+     "isim": "Naga",
+     "eski": true
+    },
+    {
+     "id": 1257,
+     "isim": "Nane Fanı"
+    },
+    {
+     "id": 645,
+     "isim": "Oksit Alevi",
+     "eski": true
+    },
+    {
+     "id": 1090,
+     "isim": "Okyanus Caddesi",
+     "eski": true
+    },
+    {
+     "id": 231,
+     "isim": "Parçalı Kobalt",
+     "eski": true
+    },
+    {
+     "id": 347,
+     "isim": "Pilot",
+     "eski": true
+    },
+    {
+     "id": 962,
+     "isim": "Printstream",
+     "eski": true
+    },
+    {
+     "id": 779,
+     "isim": "Rastgele Erişim",
+     "eski": true
+    },
+    {
+     "id": 138,
+     "isim": "Sinirli"
+    },
+    {
+     "id": 1056,
+     "isim": "Sputnik"
+    },
+    {
+     "id": 938,
+     "isim": "Starcade"
+    },
+    {
+     "id": 351,
+     "isim": "Suikast",
+     "eski": true
+    },
+    {
+     "id": 1050,
+     "isim": "Tetik Disiplini",
+     "eski": true
+    },
+    {
+     "id": 273,
+     "isim": "Yadigâr",
+     "eski": true
+    },
+    {
+     "id": 603,
+     "isim": "Yönerge",
+     "eski": true
+    },
+    {
+     "id": 237,
+     "isim": "Yıkıntı Şehir",
+     "eski": true
+    },
+    {
+     "id": 1189,
+     "isim": "Yılan Saldırısı"
+    },
+    {
+     "id": 757,
+     "isim": "Zümrüt Jörmungandr",
+     "eski": true
+    },
+    {
+     "id": 90,
+     "isim": "Çamurlu",
+     "eski": true
+    },
+    {
+     "id": 764,
+     "isim": "Çöl Tilkisi",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 44,
+   "ad": "weapon_hegrenade",
+   "isim": "El Bombası",
+   "skinler": []
+  },
+  {
+   "defindex": 10,
+   "ad": "weapon_famas",
+   "isim": "FAMAS",
+   "skinler": [
+    {
+     "id": 1202,
+     "isim": "2A2F"
+    },
+    {
+     "id": 882,
+     "isim": "Ara Ton Yıkama"
+    },
+    {
+     "id": 999,
+     "isim": "Asal Komplo",
+     "eski": true
+    },
+    {
+     "id": 194,
+     "isim": "Ateş Püsküren"
+    },
+    {
+     "id": 723,
+     "isim": "Athena'nın Gözü",
+     "eski": true
+    },
+    {
+     "id": 429,
+     "isim": "Cin",
+     "eski": true
+    },
+    {
+     "id": 659,
+     "isim": "Dehşetli"
+    },
+    {
+     "id": 1053,
+     "isim": "Erime",
+     "eski": true
+    },
+    {
+     "id": 863,
+     "isim": "Gece Borre",
+     "eski": true
+    },
+    {
+     "id": 1321,
+     "isim": "Gri Hayalet"
+    },
+    {
+     "id": 869,
+     "isim": "Gün Batımı"
+    },
+    {
+     "id": 1066,
+     "isim": "Hatalı Elektrik Tesisatı"
+    },
+    {
+     "id": 154,
+     "isim": "Hayal Etkisi",
+     "eski": true
+    },
+    {
+     "id": 218,
+     "isim": "Heksan",
+     "eski": true
+    },
+    {
+     "id": 1127,
+     "isim": "Hızlı Göz Hareketi",
+     "eski": true
+    },
+    {
+     "id": 240,
+     "isim": "Kali Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 835,
+     "isim": "Kamufle"
+    },
+    {
+     "id": 60,
+     "isim": "Kara Su",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 47,
+     "isim": "Koloni"
+    },
+    {
+     "id": 22,
+     "isim": "Kontrast Spreyi"
+    },
+    {
+     "id": 919,
+     "isim": "Kutlama",
+     "eski": true
+    },
+    {
+     "id": 178,
+     "isim": "Lanetli Kedi",
+     "eski": true
+    },
+    {
+     "id": 92,
+     "isim": "Mavi Lekeler",
+     "eski": true
+    },
+    {
+     "id": 626,
+     "isim": "Mecha Endüstrisi",
+     "eski": true
+    },
+    {
+     "id": 1146,
+     "isim": "Miyav 36",
+     "eski": true
+    },
+    {
+     "id": 492,
+     "isim": "Mücadeleci Z",
+     "eski": true
+    },
+    {
+     "id": 260,
+     "isim": "Nabız",
+     "eski": true
+    },
+    {
+     "id": 1241,
+     "isim": "Neftis'in Suları",
+     "eski": true
+    },
+    {
+     "id": 1302,
+     "isim": "Palmiye"
+    },
+    {
+     "id": 1184,
+     "isim": "Paranoya"
+    },
+    {
+     "id": 604,
+     "isim": "Ralli",
+     "eski": true
+    },
+    {
+     "id": 477,
+     "isim": "Sinir Ağı",
+     "eski": true
+    },
+    {
+     "id": 371,
+     "isim": "Styx",
+     "eski": true
+    },
+    {
+     "id": 904,
+     "isim": "Tedavülden Kalkmış",
+     "eski": true
+    },
+    {
+     "id": 529,
+     "isim": "Valans",
+     "eski": true
+    },
+    {
+     "id": 1365,
+     "isim": "Vendetta"
+    },
+    {
+     "id": 1393,
+     "isim": "Yan Ürün"
+    },
+    {
+     "id": 461,
+     "isim": "Yarım Kollu"
+    },
+    {
+     "id": 1219,
+     "isim": "Yeti Kamuflajı"
+    },
+    {
+     "id": 1461,
+     "isim": "Yılan Şarkısı"
+    },
+    {
+     "id": 244,
+     "isim": "Yırtık"
+    },
+    {
+     "id": 1092,
+     "isim": "ZX Spectron",
+     "eski": true
+    },
+    {
+     "id": 288,
+     "isim": "Çavuş",
+     "eski": true
+    },
+    {
+     "id": 1477,
+     "isim": "Şirket Savunması"
+    }
+   ]
+  },
+  {
+   "defindex": 3,
+   "ad": "weapon_fiveseven",
+   "isim": "Five-SeveN",
+   "skinler": [
+    {
+     "id": 693,
+     "isim": "Alev Testi",
+     "eski": true
+    },
+    {
+     "id": 352,
+     "isim": "Av Kuşu",
+     "eski": true
+    },
+    {
+     "id": 1002,
+     "isim": "Aynasızlar"
+    },
+    {
+     "id": 274,
+     "isim": "Bakır Galaksi"
+    },
+    {
+     "id": 1093,
+     "isim": "Destekli Zıplama Protokolü",
+     "eski": true
+    },
+    {
+     "id": 906,
+     "isim": "Dost",
+     "eski": true
+    },
+    {
+     "id": 1082,
+     "isim": "Düşme Tehlikesi",
+     "eski": true
+    },
+    {
+     "id": 3,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 210,
+     "isim": "Eloksal Metal"
+    },
+    {
+     "id": 1062,
+     "isim": "Geceyarısı Boyası"
+    },
+    {
+     "id": 1262,
+     "isim": "Gök Mavisi"
+    },
+    {
+     "id": 252,
+     "isim": "Gümüş Kuvars",
+     "eski": true
+    },
+    {
+     "id": 1168,
+     "isim": "Hibrit"
+    },
+    {
+     "id": 660,
+     "isim": "Hiper Canavar",
+     "eski": true
+    },
+    {
+     "id": 831,
+     "isim": "Isıyla İşlenmiş"
+    },
+    {
+     "id": 265,
+     "isim": "Kami",
+     "eski": true
+    },
+    {
+     "id": 1128,
+     "isim": "Karalama",
+     "eski": true
+    },
+    {
+     "id": 1429,
+     "isim": "Koyu Polimer"
+    },
+    {
+     "id": 646,
+     "isim": "Kılcal Damar",
+     "eski": true
+    },
+    {
+     "id": 729,
+     "isim": "Kızıl Çiçek",
+     "eski": true
+    },
+    {
+     "id": 427,
+     "isim": "Maymun İşi",
+     "eski": true
+    },
+    {
+     "id": 464,
+     "isim": "Neon Kimono",
+     "eski": true
+    },
+    {
+     "id": 223,
+     "isim": "Nergis Zambağı",
+     "eski": true
+    },
+    {
+     "id": 254,
+     "isim": "Nitro"
+    },
+    {
+     "id": 151,
+     "isim": "Orman"
+    },
+    {
+     "id": 78,
+     "isim": "Ormanda Gece",
+     "eski": true
+    },
+    {
+     "id": 46,
+     "isim": "Paralı Asker"
+    },
+    {
+     "id": 1380,
+     "isim": "Pembe Turna"
+    },
+    {
+     "id": 979,
+     "isim": "Peri Masalı",
+     "eski": true
+    },
+    {
+     "id": 141,
+     "isim": "Portakal Kabuğu"
+    },
+    {
+     "id": 510,
+     "isim": "Retrobution",
+     "eski": true
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 837,
+     "isim": "Sinirli Kalabalık",
+     "eski": true
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 932,
+     "isim": "Solmuş Sarmaşık"
+    },
+    {
+     "id": 1336,
+     "isim": "Sonbahar Çalılığı"
+    },
+    {
+     "id": 784,
+     "isim": "Soğutucu",
+     "eski": true
+    },
+    {
+     "id": 377,
+     "isim": "Sıcak Atış"
+    },
+    {
+     "id": 605,
+     "isim": "Uskumru",
+     "eski": true
+    },
+    {
+     "id": 1457,
+     "isim": "Çöl Mührü"
+    },
+    {
+     "id": 530,
+     "isim": "Üçlü Yönetim",
+     "eski": true
+    },
+    {
+     "id": 387,
+     "isim": "Şehir Tehlikesi",
+     "eski": true
+    },
+    {
+     "id": 585,
+     "isim": "Şiddetli Daimyo",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 43,
+   "ad": "weapon_flashbang",
+   "isim": "Flaş Bombası",
+   "skinler": []
+  },
+  {
+   "defindex": 11,
+   "ad": "weapon_g3sg1",
+   "isim": "G3SG1",
+   "skinler": [
+    {
+     "id": 628,
+     "isim": "Akrep",
+     "eski": true
+    },
+    {
+     "id": 493,
+     "isim": "Akıntı",
+     "eski": true
+    },
+    {
+     "id": 677,
+     "isim": "Avcı",
+     "eski": true
+    },
+    {
+     "id": 511,
+     "isim": "Cellat",
+     "eski": true
+    },
+    {
+     "id": 195,
+     "isim": "Demeter",
+     "eski": true
+    },
+    {
+     "id": 980,
+     "isim": "Dijital Ağ",
+     "eski": true
+    },
+    {
+     "id": 1034,
+     "isim": "Kadim Ayin",
+     "eski": true
+    },
+    {
+     "id": 891,
+     "isim": "Kara Kum",
+     "eski": true
+    },
+    {
+     "id": 382,
+     "isim": "Kasvetli",
+     "eski": true
+    },
+    {
+     "id": 438,
+     "isim": "Kronos",
+     "eski": true
+    },
+    {
+     "id": 6,
+     "isim": "Kutup Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 1328,
+     "isim": "Kırmızı Jasper"
+    },
+    {
+     "id": 229,
+     "isim": "Lacivert Zebra"
+    },
+    {
+     "id": 806,
+     "isim": "Leşçil",
+     "eski": true
+    },
+    {
+     "id": 739,
+     "isim": "Menekşe Murano",
+     "eski": true
+    },
+    {
+     "id": 147,
+     "isim": "Orman Tireli"
+    },
+    {
+     "id": 46,
+     "isim": "Paralı Asker"
+    },
+    {
+     "id": 74,
+     "isim": "Polar Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 1129,
+     "isim": "Rüya Bahçesi",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 545,
+     "isim": "Turuncu Kaza"
+    },
+    {
+     "id": 465,
+     "isim": "Turuncu Kimono",
+     "eski": true
+    },
+    {
+     "id": 606,
+     "isim": "Vantilatör",
+     "eski": true
+    },
+    {
+     "id": 235,
+     "isim": "Vari Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 1095,
+     "isim": "Yakın Takip",
+     "eski": true
+    },
+    {
+     "id": 930,
+     "isim": "Yeni Kökler"
+    },
+    {
+     "id": 294,
+     "isim": "Yeşil Elma"
+    },
+    {
+     "id": 1305,
+     "isim": "Yeşil Hücre"
+    },
+    {
+     "id": 712,
+     "isim": "Yüksek Dalgalar",
+     "eski": true
+    },
+    {
+     "id": 8,
+     "isim": "Çöl Fırtınası",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 13,
+   "ad": "weapon_galilar",
+   "isim": "Galil AR",
+   "skinler": [
+    {
+     "id": 119,
+     "isim": "Adaçayı Spreyi"
+    },
+    {
+     "id": 842,
+     "isim": "Akoben"
+    },
+    {
+     "id": 460,
+     "isim": "Akua Teras",
+     "eski": true
+    },
+    {
+     "id": 1013,
+     "isim": "Anka Kara Işığı",
+     "eski": true
+    },
+    {
+     "id": 1296,
+     "isim": "Asitli Dart"
+    },
+    {
+     "id": 972,
+     "isim": "Connexion",
+     "eski": true
+    },
+    {
+     "id": 1147,
+     "isim": "Destroyer",
+     "eski": true
+    },
+    {
+     "id": 1071,
+     "isim": "DİKKAT!"
+    },
+    {
+     "id": 428,
+     "isim": "Eko",
+     "eski": true
+    },
+    {
+     "id": 1434,
+     "isim": "Galigator"
+    },
+    {
+     "id": 398,
+     "isim": "Geveze",
+     "eski": true
+    },
+    {
+     "id": 1275,
+     "isim": "Gri Duman"
+    },
+    {
+     "id": 1178,
+     "isim": "Gökkuşağı Kaşığı"
+    },
+    {
+     "id": 1383,
+     "isim": "Gökyüzü Desenli Mandala"
+    },
+    {
+     "id": 308,
+     "isim": "Kami",
+     "eski": true
+    },
+    {
+     "id": 629,
+     "isim": "Kara Kum",
+     "eski": true
+    },
+    {
+     "id": 1032,
+     "isim": "Karanlık Harabeler",
+     "eski": true
+    },
+    {
+     "id": 101,
+     "isim": "Kasırga"
+    },
+    {
+     "id": 379,
+     "isim": "Kerberos",
+     "eski": true
+    },
+    {
+     "id": 1185,
+     "isim": "Kontrol"
+    },
+    {
+     "id": 1314,
+     "isim": "Koruncu"
+    },
+    {
+     "id": 264,
+     "isim": "Kum Fırtınası",
+     "eski": true
+    },
+    {
+     "id": 241,
+     "isim": "Kör Avcılık"
+    },
+    {
+     "id": 192,
+     "isim": "Kırılmış",
+     "eski": true
+    },
+    {
+     "id": 647,
+     "isim": "Kızıl Tsunami"
+    },
+    {
+     "id": 76,
+     "isim": "Kış Ormanı",
+     "eski": true
+    },
+    {
+     "id": 216,
+     "isim": "Mavi Titanyum"
+    },
+    {
+     "id": 239,
+     "isim": "Metalik Sıkacak"
+    },
+    {
+     "id": 939,
+     "isim": "NV"
+    },
+    {
+     "id": 1038,
+     "isim": "Renk Sapmaları",
+     "eski": true
+    },
+    {
+     "id": 478,
+     "isim": "Roket Patlaması",
+     "eski": true
+    },
+    {
+     "id": 807,
+     "isim": "Sinyal",
+     "eski": true
+    },
+    {
+     "id": 297,
+     "isim": "Smokin"
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 790,
+     "isim": "Soğuk Füzyon",
+     "eski": true
+    },
+    {
+     "id": 661,
+     "isim": "Tatlı Krizi",
+     "eski": true
+    },
+    {
+     "id": 494,
+     "isim": "Taş Soğuğu",
+     "eski": true
+    },
+    {
+     "id": 83,
+     "isim": "Turuncu DDPAT",
+     "eski": true
+    },
+    {
+     "id": 981,
+     "isim": "Vandal",
+     "eski": true
+    },
+    {
+     "id": 235,
+     "isim": "Vari Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 294,
+     "isim": "Yeşil Elma"
+    },
+    {
+     "id": 1264,
+     "isim": "Yeşilimtırak"
+    },
+    {
+     "id": 237,
+     "isim": "Yıkıntı Şehir",
+     "eski": true
+    },
+    {
+     "id": 546,
+     "isim": "Çatışma",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 4,
+   "ad": "weapon_glock",
+   "isim": "Glock-18",
+   "skinler": [
+    {
+     "id": 832,
+     "isim": "AXIA"
+    },
+    {
+     "id": 1100,
+     "isim": "Abur Cubur Saldırısı",
+     "eski": true
+    },
+    {
+     "id": 437,
+     "isim": "Alacakaranlık Galaksi"
+    },
+    {
+     "id": 1227,
+     "isim": "Alacakaranlık Tavşanı",
+     "eski": true
+    },
+    {
+     "id": 129,
+     "isim": "Altın Diş"
+    },
+    {
+     "id": 694,
+     "isim": "Ay Doğması",
+     "eski": true
+    },
+    {
+     "id": 1348,
+     "isim": "Aynalı Mozaik"
+    },
+    {
+     "id": 1167,
+     "isim": "Block-18"
+    },
+    {
+     "id": 479,
+     "isim": "Bunsen Lambası",
+     "eski": true
+    },
+    {
+     "id": 623,
+     "isim": "Demir İşçiliği",
+     "eski": true
+    },
+    {
+     "id": 680,
+     "isim": "Dünya Dışı",
+     "eski": true
+    },
+    {
+     "id": 48,
+     "isim": "Ejderha Dövmesi",
+     "eski": true
+    },
+    {
+     "id": 3,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 918,
+     "isim": "Fedakârlık",
+     "eski": true
+    },
+    {
+     "id": 1016,
+     "isim": "Franklin",
+     "eski": true
+    },
+    {
+     "id": 1120,
+     "isim": "Gamma Doppler (Faz 1)",
+     "eski": true
+    },
+    {
+     "id": 1121,
+     "isim": "Gamma Doppler (Faz 2)",
+     "eski": true
+    },
+    {
+     "id": 1122,
+     "isim": "Gamma Doppler (Faz 3)",
+     "eski": true
+    },
+    {
+     "id": 1123,
+     "isim": "Gamma Doppler (Faz 4)",
+     "eski": true
+    },
+    {
+     "id": 1119,
+     "isim": "Gamma Doppler (Zümrüt)",
+     "eski": true
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 607,
+     "isim": "Gelincik",
+     "eski": true
+    },
+    {
+     "id": 1282,
+     "isim": "Glock Kuşu"
+    },
+    {
+     "id": 1450,
+     "isim": "Hayalet Protokol"
+    },
+    {
+     "id": 1357,
+     "isim": "Hedef Kilidi"
+    },
+    {
+     "id": 532,
+     "isim": "Kraliyet Lejyonu",
+     "eski": true
+    },
+    {
+     "id": 208,
+     "isim": "Kumul"
+    },
+    {
+     "id": 1079,
+     "isim": "Kırmızı Tekerlek"
+    },
+    {
+     "id": 1158,
+     "isim": "Kışa Hazır",
+     "eski": true
+    },
+    {
+     "id": 278,
+     "isim": "Mavi Çatlak",
+     "eski": true
+    },
+    {
+     "id": 1312,
+     "isim": "Mercan Çiçekleri"
+    },
+    {
+     "id": 957,
+     "isim": "Mermiler Kraliçesi",
+     "eski": true
+    },
+    {
+     "id": 988,
+     "isim": "Neo-Noir",
+     "eski": true
+    },
+    {
+     "id": 789,
+     "isim": "Nükleer Bahçe",
+     "eski": true
+    },
+    {
+     "id": 808,
+     "isim": "Oksit Alevi",
+     "eski": true
+    },
+    {
+     "id": 1265,
+     "isim": "Okyanus Topoğrafyası"
+    },
+    {
+     "id": 230,
+     "isim": "Parçalı Çelik",
+     "eski": true
+    },
+    {
+     "id": 84,
+     "isim": "Pembe DDPAT",
+     "eski": true
+    },
+    {
+     "id": 159,
+     "isim": "Pirinç",
+     "eski": true
+    },
+    {
+     "id": 1240,
+     "isim": "Ramses'in Başarısı",
+     "eski": true
+    },
+    {
+     "id": 367,
+     "isim": "Reaktör",
+     "eski": true
+    },
+    {
+     "id": 495,
+     "isim": "Ruhlar",
+     "eski": true
+    },
+    {
+     "id": 713,
+     "isim": "Savaş Şahini",
+     "eski": true
+    },
+    {
+     "id": 732,
+     "isim": "Sentetik Yaprak",
+     "eski": true
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 353,
+     "isim": "Su Elementali",
+     "eski": true
+    },
+    {
+     "id": 1421,
+     "isim": "Tam Ayarlı"
+    },
+    {
+     "id": 152,
+     "isim": "Turkuaz Grafiti"
+    },
+    {
+     "id": 799,
+     "isim": "Uzun Far"
+    },
+    {
+     "id": 963,
+     "isim": "Vogue",
+     "eski": true
+    },
+    {
+     "id": 399,
+     "isim": "Yeraltı Mezarlığı",
+     "eski": true
+    },
+    {
+     "id": 2,
+     "isim": "Yeraltı Suyu"
+    },
+    {
+     "id": 1200,
+     "isim": "Yeşil Hat"
+    },
+    {
+     "id": 586,
+     "isim": "Çöl İsyancısı",
+     "eski": true
+    },
+    {
+     "id": 293,
+     "isim": "Ölü Yılan",
+     "eski": true
+    },
+    {
+     "id": 381,
+     "isim": "Öğütücü",
+     "eski": true
+    },
+    {
+     "id": 1460,
+     "isim": "İfrit Kafesi"
+    },
+    {
+     "id": 1039,
+     "isim": "Şeffaf Polimer",
+     "eski": true
+    },
+    {
+     "id": 1208,
+     "isim": "Şinobu"
+    }
+   ]
+  },
+  {
+   "defindex": 14,
+   "ad": "weapon_m249",
+   "isim": "M249",
+   "skinler": [
+    {
+     "id": 902,
+     "isim": "Aztec",
+     "eski": true
+    },
+    {
+     "id": 1242,
+     "isim": "Batık",
+     "eski": true
+    },
+    {
+     "id": 472,
+     "isim": "Darbeli Matkap"
+    },
+    {
+     "id": 452,
+     "isim": "Deniz Havası Tahmini",
+     "eski": true
+    },
+    {
+     "id": 1148,
+     "isim": "Downtown",
+     "eski": true
+    },
+    {
+     "id": 933,
+     "isim": "Gece Yarısı Palmiyesi"
+    },
+    {
+     "id": 1435,
+     "isim": "Gıdak Bloklar"
+    },
+    {
+     "id": 547,
+     "isim": "Hayalet",
+     "eski": true
+    },
+    {
+     "id": 120,
+     "isim": "Hipnoz"
+    },
+    {
+     "id": 243,
+     "isim": "Kertenkele Ağı"
+    },
+    {
+     "id": 22,
+     "isim": "Kontrast Spreyi"
+    },
+    {
+     "id": 266,
+     "isim": "Magma",
+     "eski": true
+    },
+    {
+     "id": 496,
+     "isim": "Nebula Savaşçısı",
+     "eski": true
+    },
+    {
+     "id": 827,
+     "isim": "Nem kontrollü tütünlük"
+    },
+    {
+     "id": 151,
+     "isim": "Orman"
+    },
+    {
+     "id": 202,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1042,
+     "isim": "SGGEET",
+     "eski": true
+    },
+    {
+     "id": 900,
+     "isim": "Savaş Kuşu",
+     "eski": true
+    },
+    {
+     "id": 401,
+     "isim": "Sistem Kilidi",
+     "eski": true
+    },
+    {
+     "id": 75,
+     "isim": "Soğuk Mermer",
+     "eski": true
+    },
+    {
+     "id": 875,
+     "isim": "Spektrogram"
+    },
+    {
+     "id": 1370,
+     "isim": "Tipi"
+    },
+    {
+     "id": 983,
+     "isim": "Topografya",
+     "eski": true
+    },
+    {
+     "id": 1298,
+     "isim": "Yeşil Kamuflaj"
+    },
+    {
+     "id": 170,
+     "isim": "Yırtıcı"
+    },
+    {
+     "id": 648,
+     "isim": "Zümrüt Zehirli Dart"
+    }
+   ]
+  },
+  {
+   "defindex": 60,
+   "ad": "weapon_m4a1_silencer",
+   "isim": "M4A1-S",
+   "skinler": [
+    {
+     "id": 1319,
+     "isim": "Altıgen Gül"
+    },
+    {
+     "id": 497,
+     "isim": "Altın Yılan",
+     "eski": true
+    },
+    {
+     "id": 301,
+     "isim": "Atomik Alaşım",
+     "eski": true
+    },
+    {
+     "id": 383,
+     "isim": "Basilisk",
+     "eski": true
+    },
+    {
+     "id": 160,
+     "isim": "Beni yıka lütfen"
+    },
+    {
+     "id": 1311,
+     "isim": "Bozuk Ekran"
+    },
+    {
+     "id": 663,
+     "isim": "Brifing",
+     "eski": true
+    },
+    {
+     "id": 548,
+     "isim": "Chantico'nun Ateşi",
+     "eski": true
+    },
+    {
+     "id": 360,
+     "isim": "Cyrex",
+     "eski": true
+    },
+    {
+     "id": 644,
+     "isim": "Decimator",
+     "eski": true
+    },
+    {
+     "id": 1433,
+     "isim": "Elektrum"
+    },
+    {
+     "id": 1223,
+     "isim": "Emphorosaur-S",
+     "eski": true
+    },
+    {
+     "id": 1059,
+     "isim": "Gazoz"
+    },
+    {
+     "id": 631,
+     "isim": "Geri Dönüş",
+     "eski": true
+    },
+    {
+     "id": 430,
+     "isim": "Hiper Canavar",
+     "eski": true
+    },
+    {
+     "id": 61,
+     "isim": "Hipnotik"
+    },
+    {
+     "id": 1338,
+     "isim": "Issızlık"
+    },
+    {
+     "id": 714,
+     "isim": "Kabus",
+     "eski": true
+    },
+    {
+     "id": 217,
+     "isim": "Kan Kaplanı",
+     "eski": true
+    },
+    {
+     "id": 60,
+     "isim": "Kara Su",
+     "eski": true
+    },
+    {
+     "id": 1130,
+     "isim": "Karabasan",
+     "eski": true
+    },
+    {
+     "id": 792,
+     "isim": "Kontrol Paneli",
+     "eski": true
+    },
+    {
+     "id": 681,
+     "isim": "Kurşunlu Vitray",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 1017,
+     "isim": "Mavi Fosfor"
+    },
+    {
+     "id": 587,
+     "isim": "Mecha Endüstrisi",
+     "eski": true
+    },
+    {
+     "id": 257,
+     "isim": "Muhafız",
+     "eski": true
+    },
+    {
+     "id": 254,
+     "isim": "Nitro"
+    },
+    {
+     "id": 1001,
+     "isim": "Ormana Hoş Geldin",
+     "eski": true
+    },
+    {
+     "id": 189,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 1376,
+     "isim": "Parti Canavarı"
+    },
+    {
+     "id": 984,
+     "isim": "Printstream",
+     "eski": true
+    },
+    {
+     "id": 1166,
+     "isim": "Siyah Lotus"
+    },
+    {
+     "id": 1177,
+     "isim": "Solgun"
+    },
+    {
+     "id": 1216,
+     "isim": "Stratosfer"
+    },
+    {
+     "id": 445,
+     "isim": "Sıcak Güç",
+     "eski": true
+    },
+    {
+     "id": 1340,
+     "isim": "Tasfiye"
+    },
+    {
+     "id": 106,
+     "isim": "Vaporwave"
+    },
+    {
+     "id": 235,
+     "isim": "Vari Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 1073,
+     "isim": "Yakın Tehlike",
+     "eski": true
+    },
+    {
+     "id": 862,
+     "isim": "Yosun Kuvars",
+     "eski": true
+    },
+    {
+     "id": 1243,
+     "isim": "Çamur Kamuflajı",
+     "eski": true
+    },
+    {
+     "id": 1476,
+     "isim": "Ölümcül Bozulma"
+    },
+    {
+     "id": 440,
+     "isim": "İkarus Düştü",
+     "eski": true
+    },
+    {
+     "id": 946,
+     "isim": "İkinci Oyuncu",
+     "eski": true
+    },
+    {
+     "id": 321,
+     "isim": "Şaheser",
+     "eski": true
+    },
+    {
+     "id": 326,
+     "isim": "Şövalye",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 16,
+   "ad": "weapon_m4a1",
+   "isim": "M4A4",
+   "skinler": [
+    {
+     "id": 780,
+     "isim": "Ana Bilgisayar",
+     "eski": true
+    },
+    {
+     "id": 255,
+     "isim": "Asiimov",
+     "eski": true
+    },
+    {
+     "id": 512,
+     "isim": "Asil Paladin",
+     "eski": true
+    },
+    {
+     "id": 1210,
+     "isim": "Askeri Kamuflaj"
+    },
+    {
+     "id": 664,
+     "isim": "Cehennem Ateşi",
+     "eski": true
+    },
+    {
+     "id": 1209,
+     "isim": "Cehennemî"
+    },
+    {
+     "id": 1266,
+     "isim": "Deniz Kamuflajı"
+    },
+    {
+     "id": 971,
+     "isim": "Diş Perisi",
+     "eski": true
+    },
+    {
+     "id": 793,
+     "isim": "Dönüştürücü",
+     "eski": true
+    },
+    {
+     "id": 1463,
+     "isim": "Falak"
+    },
+    {
+     "id": 1165,
+     "isim": "Gravür Lordu"
+    },
+    {
+     "id": 384,
+     "isim": "Griffin",
+     "eski": true
+    },
+    {
+     "id": 1255,
+     "isim": "Horus'un Gözü",
+     "eski": true
+    },
+    {
+     "id": 1432,
+     "isim": "Isırmatik"
+    },
+    {
+     "id": 1364,
+     "isim": "Kara Yel"
+    },
+    {
+     "id": 1446,
+     "isim": "Karanlık Ajan"
+    },
+    {
+     "id": 101,
+     "isim": "Kasırga"
+    },
+    {
+     "id": 1063,
+     "isim": "Koalisyon",
+     "eski": true
+    },
+    {
+     "id": 730,
+     "isim": "Koyu Renk Çiçek"
+    },
+    {
+     "id": 993,
+     "isim": "Küresel Saldırı",
+     "eski": true
+    },
+    {
+     "id": 926,
+     "isim": "Kırmızı DDPAT",
+     "eski": true
+    },
+    {
+     "id": 811,
+     "isim": "Magnezyum",
+     "eski": true
+    },
+    {
+     "id": 155,
+     "isim": "Mermi Yağmuru",
+     "eski": true
+    },
+    {
+     "id": 164,
+     "isim": "Modern Avcı",
+     "eski": true
+    },
+    {
+     "id": 695,
+     "isim": "Neo-Noir",
+     "eski": true
+    },
+    {
+     "id": 16,
+     "isim": "Orman Kaplanı",
+     "eski": true
+    },
+    {
+     "id": 874,
+     "isim": "Polysoup"
+    },
+    {
+     "id": 449,
+     "isim": "Poseydon",
+     "eski": true
+    },
+    {
+     "id": 167,
+     "isim": "Radyasyon Tehlikesi"
+    },
+    {
+     "id": 1041,
+     "isim": "Renk Cümbüşü",
+     "eski": true
+    },
+    {
+     "id": 533,
+     "isim": "Savaş Yıldızı",
+     "eski": true
+    },
+    {
+     "id": 632,
+     "isim": "Seri Leş",
+     "eski": true
+    },
+    {
+     "id": 985,
+     "isim": "Siber Güvenlik",
+     "eski": true
+    },
+    {
+     "id": 176,
+     "isim": "Solgun Zebra"
+    },
+    {
+     "id": 1353,
+     "isim": "Tam Gaz"
+    },
+    {
+     "id": 1228,
+     "isim": "Temukau",
+     "eski": true
+    },
+    {
+     "id": 588,
+     "isim": "Tenha Boşluk",
+     "eski": true
+    },
+    {
+     "id": 118,
+     "isim": "Türbin"
+    },
+    {
+     "id": 309,
+     "isim": "Uluma",
+     "eski": true
+    },
+    {
+     "id": 215,
+     "isim": "X Işını",
+     "eski": true
+    },
+    {
+     "id": 480,
+     "isim": "Zalim Daimyo",
+     "eski": true
+    },
+    {
+     "id": 187,
+     "isim": "Zirka",
+     "eski": true
+    },
+    {
+     "id": 1313,
+     "isim": "Çelik İşi"
+    },
+    {
+     "id": 8,
+     "isim": "Çöl Fırtınası",
+     "eski": true
+    },
+    {
+     "id": 336,
+     "isim": "Çöl Saldırısı",
+     "eski": true
+    },
+    {
+     "id": 1097,
+     "isim": "Örümcek Zambağı",
+     "eski": true
+    },
+    {
+     "id": 844,
+     "isim": "İmparator",
+     "eski": true
+    },
+    {
+     "id": 471,
+     "isim": "Şafak",
+     "eski": true
+    },
+    {
+     "id": 1149,
+     "isim": "Şeffaf Şarjör",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1281,
+     "isim": "Şimşek Bulutu"
+    },
+    {
+     "id": 400,
+     "isim": "龍王 (Ejderha Kral)",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 17,
+   "ad": "weapon_mac10",
+   "isim": "MAC-10",
+   "skinler": [
+    {
+     "id": 1009,
+     "isim": "Alevli Yılanlar",
+     "eski": true
+    },
+    {
+     "id": 665,
+     "isim": "Aloha",
+     "eski": true
+    },
+    {
+     "id": 1025,
+     "isim": "Altın Tuğla"
+    },
+    {
+     "id": 1454,
+     "isim": "Arabesk Mozaik"
+    },
+    {
+     "id": 1295,
+     "isim": "Asitgen"
+    },
+    {
+     "id": 761,
+     "isim": "Bakır Borre",
+     "eski": true
+    },
+    {
+     "id": 402,
+     "isim": "Bakır Taşı",
+     "eski": true
+    },
+    {
+     "id": 840,
+     "isim": "Beyaz Balık",
+     "eski": true
+    },
+    {
+     "id": 1334,
+     "isim": "Bronzlaştırıcı"
+    },
+    {
+     "id": 1045,
+     "isim": "Buton Basıcı",
+     "eski": true
+    },
+    {
+     "id": 965,
+     "isim": "Cazibe",
+     "eski": true
+    },
+    {
+     "id": 748,
+     "isim": "Dana Derisi",
+     "eski": true
+    },
+    {
+     "id": 947,
+     "isim": "Disko Teknolojisi",
+     "eski": true
+    },
+    {
+     "id": 3,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 589,
+     "isim": "Etobur",
+     "eski": true
+    },
+    {
+     "id": 140,
+     "isim": "Farecik"
+    },
+    {
+     "id": 1269,
+     "isim": "Fırtına Kamuflaj"
+    },
+    {
+     "id": 343,
+     "isim": "Gezgin",
+     "eski": true
+    },
+    {
+     "id": 32,
+     "isim": "Gümüş"
+    },
+    {
+     "id": 1164,
+     "isim": "Işık Kutusu"
+    },
+    {
+     "id": 1367,
+     "isim": "Kar Sıçraması"
+    },
+    {
+     "id": 101,
+     "isim": "Kasırga"
+    },
+    {
+     "id": 1285,
+     "isim": "Kavak Çalılığı"
+    },
+    {
+     "id": 1349,
+     "isim": "Kavgacı Kedi"
+    },
+    {
+     "id": 908,
+     "isim": "Klasik Kutu",
+     "eski": true
+    },
+    {
+     "id": 826,
+     "isim": "Koyu Kahverengi Şam"
+    },
+    {
+     "id": 742,
+     "isim": "Kırmızı Filigran",
+     "eski": true
+    },
+    {
+     "id": 284,
+     "isim": "Kızgın",
+     "eski": true
+    },
+    {
+     "id": 812,
+     "isim": "Kızıl Boru",
+     "eski": true
+    },
+    {
+     "id": 310,
+     "isim": "Lanet",
+     "eski": true
+    },
+    {
+     "id": 534,
+     "isim": "Lapis Kertenkele",
+     "eski": true
+    },
+    {
+     "id": 1150,
+     "isim": "Maymunflaj",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 433,
+     "isim": "Neon Sürücü",
+     "eski": true
+    },
+    {
+     "id": 372,
+     "isim": "Nükleer Bahçe",
+     "eski": true
+    },
+    {
+     "id": 682,
+     "isim": "Okyanus",
+     "eski": true
+    },
+    {
+     "id": 188,
+     "isim": "Oyma",
+     "eski": true
+    },
+    {
+     "id": 1098,
+     "isim": "Oyuncak Sandığı",
+     "eski": true
+    },
+    {
+     "id": 157,
+     "isim": "Palmiye"
+    },
+    {
+     "id": 337,
+     "isim": "Parçalanmış",
+     "eski": true
+    },
+    {
+     "id": 1067,
+     "isim": "Propaganda",
+     "eski": true
+    },
+    {
+     "id": 1204,
+     "isim": "Raydan Çıkma"
+    },
+    {
+     "id": 126,
+     "isim": "Saibā Oni"
+    },
+    {
+     "id": 1229,
+     "isim": "Sakkaku",
+     "eski": true
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 651,
+     "isim": "Son Dalış"
+    },
+    {
+     "id": 1075,
+     "isim": "Stratejiler",
+     "eski": true
+    },
+    {
+     "id": 871,
+     "isim": "Sörf Tahtası"
+    },
+    {
+     "id": 498,
+     "isim": "Süslü",
+     "eski": true
+    },
+    {
+     "id": 1131,
+     "isim": "Tuzağa Düşmüş",
+     "eski": true
+    },
+    {
+     "id": 1448,
+     "isim": "Video Kamera"
+    },
+    {
+     "id": 1244,
+     "isim": "Yankılanan Kumlar",
+     "eski": true
+    },
+    {
+     "id": 333,
+     "isim": "Çivit"
+    },
+    {
+     "id": 898,
+     "isim": "İz Sürücü",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 27,
+   "ad": "weapon_mag7",
+   "isim": "MAG-7",
+   "skinler": [
+    {
+     "id": 948,
+     "isim": "Adalet",
+     "eski": true
+    },
+    {
+     "id": 177,
+     "isim": "Andaç",
+     "eski": true
+    },
+    {
+     "id": 462,
+     "isim": "Anti Teras",
+     "eski": true
+    },
+    {
+     "id": 1089,
+     "isim": "BI83 Spektrumu",
+     "eski": true
+    },
+    {
+     "id": 1245,
+     "isim": "Bakır Kaplama",
+     "eski": true
+    },
+    {
+     "id": 1306,
+     "isim": "Bakır Oksit"
+    },
+    {
+     "id": 737,
+     "isim": "Beş Parmak",
+     "eski": true
+    },
+    {
+     "id": 39,
+     "isim": "Buldozer"
+    },
+    {
+     "id": 961,
+     "isim": "Canavar Çağrısı",
+     "eski": true
+    },
+    {
+     "id": 473,
+     "isim": "Deniz Kuşu"
+    },
+    {
+     "id": 100,
+     "isim": "Fırtına"
+    },
+    {
+     "id": 933,
+     "isim": "Gece Yarısı Palmiyesi"
+    },
+    {
+     "id": 291,
+     "isim": "Gökyüzü Muhafızı",
+     "eski": true
+    },
+    {
+     "id": 32,
+     "isim": "Gümüş"
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 499,
+     "isim": "Kobalt Çekirdeği",
+     "eski": true
+    },
+    {
+     "id": 99,
+     "isim": "Kumul"
+    },
+    {
+     "id": 385,
+     "isim": "Kundakçı",
+     "eski": true
+    },
+    {
+     "id": 431,
+     "isim": "Kızgın",
+     "eski": true
+    },
+    {
+     "id": 1355,
+     "isim": "MAGnitüd"
+    },
+    {
+     "id": 608,
+     "isim": "Mağara Sanatı",
+     "eski": true
+    },
+    {
+     "id": 34,
+     "isim": "Metalik DDPAT",
+     "eski": true
+    },
+    {
+     "id": 822,
+     "isim": "Parlak Lacivert",
+     "eski": true
+    },
+    {
+     "id": 323,
+     "isim": "Pas Kaplı (323)",
+     "eski": true
+    },
+    {
+     "id": 754,
+     "isim": "Pas Kaplı (754)",
+     "eski": true
+    },
+    {
+     "id": 909,
+     "isim": "Popdog",
+     "eski": true
+    },
+    {
+     "id": 535,
+     "isim": "Praetorian",
+     "eski": true
+    },
+    {
+     "id": 1072,
+     "isim": "Prizma Teras",
+     "eski": true
+    },
+    {
+     "id": 171,
+     "isim": "Radyasyon Uyarısı",
+     "eski": true
+    },
+    {
+     "id": 703,
+     "isim": "SWAG-7",
+     "eski": true
+    },
+    {
+     "id": 666,
+     "isim": "Sert Su",
+     "eski": true
+    },
+    {
+     "id": 633,
+     "isim": "Sonar",
+     "eski": true
+    },
+    {
+     "id": 198,
+     "isim": "Tehlike"
+    },
+    {
+     "id": 1220,
+     "isim": "Uykusuzluk",
+     "eski": true
+    },
+    {
+     "id": 773,
+     "isim": "Vahşi Orman"
+    },
+    {
+     "id": 327,
+     "isim": "Zincir Zırh",
+     "eski": true
+    },
+    {
+     "id": 787,
+     "isim": "Çekirdek Bozunması",
+     "eski": true
+    },
+    {
+     "id": 1132,
+     "isim": "Öngörü",
+     "eski": true
+    },
+    {
+     "id": 1188,
+     "isim": "İkmal"
+    }
+   ]
+  },
+  {
+   "defindex": 23,
+   "ad": "weapon_mp5sd",
+   "isim": "MP5-SD",
+   "skinler": [
+    {
+     "id": 915,
+     "isim": "Ajan",
+     "eski": true
+    },
+    {
+     "id": 1294,
+     "isim": "Altın Yaprak"
+    },
+    {
+     "id": 888,
+     "isim": "Asitle Yıkama",
+     "eski": true
+    },
+    {
+     "id": 872,
+     "isim": "Bambu Bahçesi",
+     "eski": true
+    },
+    {
+     "id": 986,
+     "isim": "Condition Zero",
+     "eski": true
+    },
+    {
+     "id": 974,
+     "isim": "Eğreti",
+     "eski": true
+    },
+    {
+     "id": 810,
+     "isim": "Fosfor",
+     "eski": true
+    },
+    {
+     "id": 846,
+     "isim": "Gauss",
+     "eski": true
+    },
+    {
+     "id": 1366,
+     "isim": "Kar Sıçraması"
+    },
+    {
+     "id": 800,
+     "isim": "Kobay Fareleri",
+     "eski": true
+    },
+    {
+     "id": 1274,
+     "isim": "Misket Limonu"
+    },
+    {
+     "id": 1137,
+     "isim": "Necro Jr.",
+     "eski": true
+    },
+    {
+     "id": 161,
+     "isim": "Neon Sıkacak"
+    },
+    {
+     "id": 798,
+     "isim": "Nitro"
+    },
+    {
+     "id": 1344,
+     "isim": "Odak"
+    },
+    {
+     "id": 923,
+     "isim": "Oksit Vahası",
+     "eski": true
+    },
+    {
+     "id": 1385,
+     "isim": "Piknik"
+    },
+    {
+     "id": 1061,
+     "isim": "Sonbahar Eşarbı",
+     "eski": true
+    },
+    {
+     "id": 1180,
+     "isim": "Statik"
+    },
+    {
+     "id": 1231,
+     "isim": "Tasfiye",
+     "eski": true
+    },
+    {
+     "id": 781,
+     "isim": "Yardımcı İşlemci",
+     "eski": true
+    },
+    {
+     "id": 237,
+     "isim": "Yıkıntı Şehir",
+     "eski": true
+    },
+    {
+     "id": 753,
+     "isim": "Çamurluk"
+    },
+    {
+     "id": 768,
+     "isim": "Çöl Ara Tonu"
+    },
+    {
+     "id": 949,
+     "isim": "Çöl Saldırısı",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 33,
+   "ad": "weapon_mp7",
+   "isim": "MP7",
+   "skinler": [
+    {
+     "id": 649,
+     "isim": "Akoben"
+    },
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 782,
+     "isim": "Anakart",
+     "eski": true
+    },
+    {
+     "id": 442,
+     "isim": "Asteryon"
+    },
+    {
+     "id": 935,
+     "isim": "Av"
+    },
+    {
+     "id": 102,
+     "isim": "Beyaz Körlük"
+    },
+    {
+     "id": 728,
+     "isim": "Deniz Mavisi Çiçek"
+    },
+    {
+     "id": 28,
+     "isim": "Eloksal Donanma"
+    },
+    {
+     "id": 481,
+     "isim": "Ezelî Rakip",
+     "eski": true
+    },
+    {
+     "id": 1096,
+     "isim": "Gerilla",
+     "eski": true
+    },
+    {
+     "id": 1246,
+     "isim": "Güneşte Pişmiş",
+     "eski": true
+    },
+    {
+     "id": 719,
+     "isim": "Güç Çekirdeği",
+     "eski": true
+    },
+    {
+     "id": 536,
+     "isim": "Impire"
+    },
+    {
+     "id": 11,
+     "isim": "Kafatasları",
+     "eski": true
+    },
+    {
+     "id": 696,
+     "isim": "Kan Sporu",
+     "eski": true
+    },
+    {
+     "id": 1007,
+     "isim": "Kasa Dairesi Soygunu",
+     "eski": true
+    },
+    {
+     "id": 1326,
+     "isim": "Kısa Sarı"
+    },
+    {
+     "id": 1386,
+     "isim": "Mercan Pateh"
+    },
+    {
+     "id": 893,
+     "isim": "Neon Kaplama",
+     "eski": true
+    },
+    {
+     "id": 213,
+     "isim": "Okyanus Köpüğü",
+     "eski": true
+    },
+    {
+     "id": 245,
+     "isim": "Ordu Gözcüsü"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 141,
+     "isim": "Portakal Kabuğu"
+    },
+    {
+     "id": 1163,
+     "isim": "Sadece Gülümse"
+    },
+    {
+     "id": 1354,
+     "isim": "Sigara İçmek Öldürür"
+    },
+    {
+     "id": 15,
+     "isim": "Silah Dumanı",
+     "eski": true
+    },
+    {
+     "id": 627,
+     "isim": "Sirüs",
+     "eski": true
+    },
+    {
+     "id": 752,
+     "isim": "Solgun"
+    },
+    {
+     "id": 250,
+     "isim": "Son Durak",
+     "eski": true
+    },
+    {
+     "id": 940,
+     "isim": "Usturlap"
+    },
+    {
+     "id": 1023,
+     "isim": "Uzun Çimen",
+     "eski": true
+    },
+    {
+     "id": 1133,
+     "isim": "Uçurum Hayaleti",
+     "eski": true
+    },
+    {
+     "id": 847,
+     "isim": "Yaramaz",
+     "eski": true
+    },
+    {
+     "id": 209,
+     "isim": "Yeraltı Suyu"
+    },
+    {
+     "id": 365,
+     "isim": "Zeytin Ekose",
+     "eski": true
+    },
+    {
+     "id": 423,
+     "isim": "Zırh Çekirdeği",
+     "eski": true
+    },
+    {
+     "id": 1436,
+     "isim": "Çizik Amber"
+    },
+    {
+     "id": 500,
+     "isim": "Özel Teslimat",
+     "eski": true
+    },
+    {
+     "id": 1468,
+     "isim": "İkili"
+    },
+    {
+     "id": 354,
+     "isim": "Şehir Tehlikesi",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 34,
+   "ad": "weapon_mp9",
+   "isim": "MP9",
+   "skinler": [
+    {
+     "id": 368,
+     "isim": "Akşam Güneşi",
+     "eski": true
+    },
+    {
+     "id": 1388,
+     "isim": "Arımatik"
+    },
+    {
+     "id": 1037,
+     "isim": "Besin Zinciri",
+     "eski": true
+    },
+    {
+     "id": 549,
+     "isim": "Biyolojik Sızıntı",
+     "eski": true
+    },
+    {
+     "id": 1341,
+     "isim": "Bozuk Plak"
+    },
+    {
+     "id": 39,
+     "isim": "Buldozer"
+    },
+    {
+     "id": 331,
+     "isim": "Buzul Üç Ton"
+    },
+    {
+     "id": 1469,
+     "isim": "Casus Prototipi"
+    },
+    {
+     "id": 262,
+     "isim": "Demir Gül",
+     "eski": true
+    },
+    {
+     "id": 931,
+     "isim": "Eski Kökler"
+    },
+    {
+     "id": 1094,
+     "isim": "Fuji Dağı"
+    },
+    {
+     "id": 100,
+     "isim": "Fırtına"
+    },
+    {
+     "id": 609,
+     "isim": "Hava Kilidi",
+     "eski": true
+    },
+    {
+     "id": 61,
+     "isim": "Hipnotik"
+    },
+    {
+     "id": 910,
+     "isim": "Hydra",
+     "eski": true
+    },
+    {
+     "id": 697,
+     "isim": "Kara Kum",
+     "eski": true
+    },
+    {
+     "id": 329,
+     "isim": "Karanlık Çağ",
+     "eski": true
+    },
+    {
+     "id": 1423,
+     "isim": "Kentin Hakimi"
+    },
+    {
+     "id": 1258,
+     "isim": "Kobalt Şal"
+    },
+    {
+     "id": 148,
+     "isim": "Kum Tireli"
+    },
+    {
+     "id": 630,
+     "isim": "Kum Ölçeği"
+    },
+    {
+     "id": 199,
+     "isim": "Kurak Mevsim"
+    },
+    {
+     "id": 715,
+     "isim": "Kılcal Damar",
+     "eski": true
+    },
+    {
+     "id": 755,
+     "isim": "Kızak",
+     "eski": true
+    },
+    {
+     "id": 1211,
+     "isim": "Latte Saati"
+    },
+    {
+     "id": 804,
+     "isim": "Mütevazı Tehdit",
+     "eski": true
+    },
+    {
+     "id": 820,
+     "isim": "Müzik Kutusu",
+     "eski": true
+    },
+    {
+     "id": 1193,
+     "isim": "Nexus"
+    },
+    {
+     "id": 386,
+     "isim": "Ok",
+     "eski": true
+    },
+    {
+     "id": 448,
+     "isim": "Pandora'nın Kutusu"
+    },
+    {
+     "id": 1278,
+     "isim": "Parlak Mavi"
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 1310,
+     "isim": "Parçalı"
+    },
+    {
+     "id": 141,
+     "isim": "Portakal Kabuğu"
+    },
+    {
+     "id": 1375,
+     "isim": "Sersem"
+    },
+    {
+     "id": 33,
+     "isim": "Sıcak Güç"
+    },
+    {
+     "id": 1225,
+     "isim": "Tüy Siklet",
+     "eski": true
+    },
+    {
+     "id": 867,
+     "isim": "Vitray",
+     "eski": true
+    },
+    {
+     "id": 734,
+     "isim": "Yabani Zambak",
+     "eski": true
+    },
+    {
+     "id": 482,
+     "isim": "Yakut Zehirli Dart",
+     "eski": true
+    },
+    {
+     "id": 679,
+     "isim": "Yapışkan",
+     "eski": true
+    },
+    {
+     "id": 366,
+     "isim": "Yeşil Ekose",
+     "eski": true
+    },
+    {
+     "id": 1134,
+     "isim": "Yıldız Işığı Muhafızı",
+     "eski": true
+    },
+    {
+     "id": 1301,
+     "isim": "Çam"
+    },
+    {
+     "id": 1330,
+     "isim": "Çoklu Arazi"
+    },
+    {
+     "id": 1473,
+     "isim": "Çöl Engereği"
+    },
+    {
+     "id": 403,
+     "isim": "Ölümcül Zehir",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 46,
+   "ad": "weapon_molotov",
+   "isim": "Molotof",
+   "skinler": []
+  },
+  {
+   "defindex": 28,
+   "ad": "weapon_negev",
+   "isim": "Negev",
+   "skinler": [
+    {
+     "id": 1080,
+     "isim": "Altyapı",
+     "eski": true
+    },
+    {
+     "id": 1012,
+     "isim": "Anka Şablonu",
+     "eski": true
+    },
+    {
+     "id": 285,
+     "isim": "Arazi"
+    },
+    {
+     "id": 698,
+     "isim": "Aslan Balığı"
+    },
+    {
+     "id": 920,
+     "isim": "Barok Kum Rengi",
+     "eski": true
+    },
+    {
+     "id": 1152,
+     "isim": "Beni At",
+     "eski": true
+    },
+    {
+     "id": 317,
+     "isim": "Bratatat",
+     "eski": true
+    },
+    {
+     "id": 783,
+     "isim": "Bölme",
+     "eski": true
+    },
+    {
+     "id": 144,
+     "isim": "Duvardan Vuruş"
+    },
+    {
+     "id": 1260,
+     "isim": "Ekşi Üzüm"
+    },
+    {
+     "id": 28,
+     "isim": "Eloksal Donanma"
+    },
+    {
+     "id": 958,
+     "isim": "Fosfor",
+     "eski": true
+    },
+    {
+     "id": 483,
+     "isim": "Gürültücü",
+     "eski": true
+    },
+    {
+     "id": 514,
+     "isim": "Güç Yükleyici",
+     "eski": true
+    },
+    {
+     "id": 1300,
+     "isim": "Ham Seramik"
+    },
+    {
+     "id": 240,
+     "isim": "Kali Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 432,
+     "isim": "Man-o'-war",
+     "eski": true
+    },
+    {
+     "id": 763,
+     "isim": "Mjölnir",
+     "eski": true
+    },
+    {
+     "id": 369,
+     "isim": "Nükleer Atık"
+    },
+    {
+     "id": 201,
+     "isim": "Palmiye"
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 610,
+     "isim": "Parıltı",
+     "eski": true
+    },
+    {
+     "id": 74,
+     "isim": "Polar Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 950,
+     "isim": "Prototip",
+     "eski": true
+    },
+    {
+     "id": 1043,
+     "isim": "dev_texture",
+     "eski": true
+    },
+    {
+     "id": 355,
+     "isim": "Çöl Saldırısı",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 35,
+   "ad": "weapon_nova",
+   "isim": "Nova",
+   "skinler": [
+    {
+     "id": 929,
+     "isim": "Akarkum",
+     "eski": true
+    },
+    {
+     "id": 1442,
+     "isim": "Akıllı Silah"
+    },
+    {
+     "id": 166,
+     "isim": "Alev Turuncusu",
+     "eski": true
+    },
+    {
+     "id": 286,
+     "isim": "Antika",
+     "eski": true
+    },
+    {
+     "id": 746,
+     "isim": "Barok Turuncusu",
+     "eski": true
+    },
+    {
+     "id": 1331,
+     "isim": "Bataklık Otu"
+    },
+    {
+     "id": 191,
+     "isim": "Bora",
+     "eski": true
+    },
+    {
+     "id": 158,
+     "isim": "Ceviz",
+     "eski": true
+    },
+    {
+     "id": 1192,
+     "isim": "Doğan Güneş"
+    },
+    {
+     "id": 3,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 1368,
+     "isim": "Esinti"
+    },
+    {
+     "id": 590,
+     "isim": "Exo",
+     "eski": true
+    },
+    {
+     "id": 634,
+     "isim": "Gila",
+     "eski": true
+    },
+    {
+     "id": 214,
+     "isim": "Grafit",
+     "eski": true
+    },
+    {
+     "id": 32,
+     "isim": "Gümüş"
+    },
+    {
+     "id": 1474,
+     "isim": "Gündüz Güneşi"
+    },
+    {
+     "id": 225,
+     "isim": "Hayalet Kamuflaj"
+    },
+    {
+     "id": 537,
+     "isim": "Hiper Canavar",
+     "eski": true
+    },
+    {
+     "id": 1051,
+     "isim": "Karahindiba"
+    },
+    {
+     "id": 1162,
+     "isim": "Karanlık Mühür"
+    },
+    {
+     "id": 1077,
+     "isim": "Kenetlenme",
+     "eski": true
+    },
+    {
+     "id": 356,
+     "isim": "Koi",
+     "eski": true
+    },
+    {
+     "id": 484,
+     "isim": "Korucu",
+     "eski": true
+    },
+    {
+     "id": 99,
+     "isim": "Kumul"
+    },
+    {
+     "id": 890,
+     "isim": "Kuş Tüyü",
+     "eski": true
+    },
+    {
+     "id": 248,
+     "isim": "Kırmızı Kuvars",
+     "eski": true
+    },
+    {
+     "id": 785,
+     "isim": "Mandrel",
+     "eski": true
+    },
+    {
+     "id": 164,
+     "isim": "Modern Avcı",
+     "eski": true
+    },
+    {
+     "id": 809,
+     "isim": "Odun Ateşi",
+     "eski": true
+    },
+    {
+     "id": 1350,
+     "isim": "Oküler"
+    },
+    {
+     "id": 25,
+     "isim": "Orman Yaprakları"
+    },
+    {
+     "id": 716,
+     "isim": "Oyuncak Asker",
+     "eski": true
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 323,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 107,
+     "isim": "Polar Ağı"
+    },
+    {
+     "id": 1247,
+     "isim": "Sobek'in Isırığı",
+     "eski": true
+    },
+    {
+     "id": 450,
+     "isim": "Terazi'deki Ay",
+     "eski": true
+    },
+    {
+     "id": 1261,
+     "isim": "Turkuaz Döküm"
+    },
+    {
+     "id": 699,
+     "isim": "Vahşi Altı",
+     "eski": true
+    },
+    {
+     "id": 145,
+     "isim": "Wurst Hölle"
+    },
+    {
+     "id": 1337,
+     "isim": "Yağmur İstasyonu"
+    },
+    {
+     "id": 294,
+     "isim": "Yeşil Elma"
+    },
+    {
+     "id": 324,
+     "isim": "Yorkshire"
+    },
+    {
+     "id": 263,
+     "isim": "Yükselen Kafatası",
+     "eski": true
+    },
+    {
+     "id": 170,
+     "isim": "Yırtıcı"
+    },
+    {
+     "id": 299,
+     "isim": "Çelik Kafes",
+     "eski": true
+    },
+    {
+     "id": 62,
+     "isim": "Çiçekli Dal",
+     "eski": true
+    },
+    {
+     "id": 987,
+     "isim": "Şeffaf Polimer",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 32,
+   "ad": "weapon_hkp2000",
+   "isim": "P2000",
+   "skinler": [
+    {
+     "id": 71,
+     "isim": "Akrep",
+     "eski": true
+    },
+    {
+     "id": 878,
+     "isim": "Ara Ton Mercan"
+    },
+    {
+     "id": 1259,
+     "isim": "Asil Barok"
+    },
+    {
+     "id": 389,
+     "isim": "Ateş Elementali",
+     "eski": true
+    },
+    {
+     "id": 1292,
+     "isim": "Bataklık"
+    },
+    {
+     "id": 960,
+     "isim": "Budaklı",
+     "eski": true
+    },
+    {
+     "id": 346,
+     "isim": "Ekonomi Sınıfı",
+     "eski": true
+    },
+    {
+     "id": 485,
+     "isim": "El Tabancası",
+     "eski": true
+    },
+    {
+     "id": 1224,
+     "isim": "Fena",
+     "eski": true
+    },
+    {
+     "id": 357,
+     "isim": "Fildişi",
+     "eski": true
+    },
+    {
+     "id": 21,
+     "isim": "Granit Mermer",
+     "eski": true
+    },
+    {
+     "id": 951,
+     "isim": "Gravür",
+     "eski": true
+    },
+    {
+     "id": 591,
+     "isim": "Görkemli Ejder",
+     "eski": true
+    },
+    {
+     "id": 32,
+     "isim": "Gümüş"
+    },
+    {
+     "id": 1359,
+     "isim": "Kavrama Bandı"
+    },
+    {
+     "id": 667,
+     "isim": "Korucu",
+     "eski": true
+    },
+    {
+     "id": 443,
+     "isim": "Kâşif"
+    },
+    {
+     "id": 275,
+     "isim": "Kırılgan Kırmızı",
+     "eski": true
+    },
+    {
+     "id": 1342,
+     "isim": "Kızıl Kanat"
+    },
+    {
+     "id": 184,
+     "isim": "Mercan Ağacı",
+     "eski": true
+    },
+    {
+     "id": 997,
+     "isim": "Mesaj",
+     "eski": true
+    },
+    {
+     "id": 338,
+     "isim": "Nabız",
+     "eski": true
+    },
+    {
+     "id": 894,
+     "isim": "Obsidyen",
+     "eski": true
+    },
+    {
+     "id": 550,
+     "isim": "Okyanus",
+     "eski": true
+    },
+    {
+     "id": 211,
+     "isim": "Okyanus Köpüğü",
+     "eski": true
+    },
+    {
+     "id": 1019,
+     "isim": "Panter Kamuflajı",
+     "eski": true
+    },
+    {
+     "id": 1181,
+     "isim": "Sağlam Tutuş"
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 1055,
+     "isim": "Uzay Yarışı"
+    },
+    {
+     "id": 1138,
+     "isim": "Yükselen Ruhlar",
+     "eski": true
+    },
+    {
+     "id": 327,
+     "isim": "Zincir Zırh",
+     "eski": true
+    },
+    {
+     "id": 90,
+     "isim": "Çamurlu",
+     "eski": true
+    },
+    {
+     "id": 95,
+     "isim": "Çayır"
+    },
+    {
+     "id": 104,
+     "isim": "Çayır Yaprakları"
+    },
+    {
+     "id": 635,
+     "isim": "Çimen",
+     "eski": true
+    },
+    {
+     "id": 515,
+     "isim": "İmparator",
+     "eski": true
+    },
+    {
+     "id": 700,
+     "isim": "Şehir Tehlikesi",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 36,
+   "ad": "weapon_p250",
+   "isim": "P250",
+   "skinler": [
+    {
+     "id": 271,
+     "isim": "Anafor",
+     "eski": true
+    },
+    {
+     "id": 1248,
+     "isim": "Apep'in Laneti",
+     "eski": true
+    },
+    {
+     "id": 551,
+     "isim": "Asiimov",
+     "eski": true
+    },
+    {
+     "id": 1307,
+     "isim": "Bakır Oksit"
+    },
+    {
+     "id": 1030,
+     "isim": "Bengal Kaplanı",
+     "eski": true
+    },
+    {
+     "id": 102,
+     "isim": "Beyaz Körlük"
+    },
+    {
+     "id": 1345,
+     "isim": "Boğa Kurbağası"
+    },
+    {
+     "id": 982,
+     "isim": "Bulaşıcı Atık",
+     "eski": true
+    },
+    {
+     "id": 650,
+     "isim": "Dalgalanma",
+     "eski": true
+    },
+    {
+     "id": 592,
+     "isim": "Demir Zırhlı",
+     "eski": true
+    },
+    {
+     "id": 1081,
+     "isim": "Dijital Mimar"
+    },
+    {
+     "id": 786,
+     "isim": "Eşanjör",
+     "eski": true
+    },
+    {
+     "id": 207,
+     "isim": "Façetalar",
+     "eski": true
+    },
+    {
+     "id": 295,
+     "isim": "Franklin",
+     "eski": true
+    },
+    {
+     "id": 1153,
+     "isim": "Görüşler",
+     "eski": true
+    },
+    {
+     "id": 907,
+     "isim": "Inferno",
+     "eski": true
+    },
+    {
+     "id": 501,
+     "isim": "Kanat Atışı",
+     "eski": true
+    },
+    {
+     "id": 388,
+     "isim": "Kartel",
+     "eski": true
+    },
+    {
+     "id": 968,
+     "isim": "Kaset",
+     "eski": true
+    },
+    {
+     "id": 27,
+     "isim": "Kemik Maske"
+    },
+    {
+     "id": 1420,
+     "isim": "Kintsugi"
+    },
+    {
+     "id": 373,
+     "isim": "Kirlilik",
+     "eski": true
+    },
+    {
+     "id": 1212,
+     "isim": "Konstrüktivist"
+    },
+    {
+     "id": 219,
+     "isim": "Kovan",
+     "eski": true
+    },
+    {
+     "id": 741,
+     "isim": "Koyu Filigran",
+     "eski": true
+    },
+    {
+     "id": 99,
+     "isim": "Kumul"
+    },
+    {
+     "id": 825,
+     "isim": "Kuraklık"
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 774,
+     "isim": "Küçük Av"
+    },
+    {
+     "id": 1315,
+     "isim": "Kızıl Gelgit"
+    },
+    {
+     "id": 466,
+     "isim": "Kızıl Kimono",
+     "eski": true
+    },
+    {
+     "id": 162,
+     "isim": "Leke"
+    },
+    {
+     "id": 258,
+     "isim": "Mehndi",
+     "eski": true
+    },
+    {
+     "id": 130,
+     "isim": "Merkez Üssü"
+    },
+    {
+     "id": 34,
+     "isim": "Metalik DDPAT",
+     "eski": true
+    },
+    {
+     "id": 164,
+     "isim": "Modern Avcı",
+     "eski": true
+    },
+    {
+     "id": 1273,
+     "isim": "Mor Ağlar"
+    },
+    {
+     "id": 467,
+     "isim": "Nane Kimono"
+    },
+    {
+     "id": 813,
+     "isim": "Nevermore"
+    },
+    {
+     "id": 1455,
+     "isim": "Nilüfer Çiçeği Desenli"
+    },
+    {
+     "id": 168,
+     "isim": "Nükleer Tehdit"
+    },
+    {
+     "id": 78,
+     "isim": "Ormanda Gece",
+     "eski": true
+    },
+    {
+     "id": 230,
+     "isim": "Parçalı Çelik",
+     "eski": true
+    },
+    {
+     "id": 1230,
+     "isim": "Re.built",
+     "eski": true
+    },
+    {
+     "id": 668,
+     "isim": "Red Rock",
+     "eski": true
+    },
+    {
+     "id": 1044,
+     "isim": "Siber Kabuk",
+     "eski": true
+    },
+    {
+     "id": 15,
+     "isim": "Silah Dumanı",
+     "eski": true
+    },
+    {
+     "id": 928,
+     "isim": "Siyah ve Açık Kahverengi",
+     "eski": true
+    },
+    {
+     "id": 678,
+     "isim": "Sonra Görüşürüz",
+     "eski": true
+    },
+    {
+     "id": 358,
+     "isim": "Süpernova",
+     "eski": true
+    },
+    {
+     "id": 777,
+     "isim": "Tesis Taslağı",
+     "eski": true
+    },
+    {
+     "id": 1369,
+     "isim": "Tipi"
+    },
+    {
+     "id": 1317,
+     "isim": "Tortul"
+    },
+    {
+     "id": 426,
+     "isim": "Valans",
+     "eski": true
+    },
+    {
+     "id": 848,
+     "isim": "Verdigris",
+     "eski": true
+    },
+    {
+     "id": 749,
+     "isim": "Vino Primo",
+     "eski": true
+    },
+    {
+     "id": 125,
+     "isim": "X Işını",
+     "eski": true
+    },
+    {
+     "id": 404,
+     "isim": "Ölüler Günü",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 19,
+   "ad": "weapon_p90",
+   "isim": "P90",
+   "skinler": [
+    {
+     "id": 516,
+     "isim": "Ahşap",
+     "eski": true
+    },
+    {
+     "id": 1361,
+     "isim": "Ak Yel"
+    },
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 359,
+     "isim": "Asiimov",
+     "eski": true
+    },
+    {
+     "id": 759,
+     "isim": "Astral Jörmungandr",
+     "eski": true
+    },
+    {
+     "id": 169,
+     "isim": "Atık Tehlikesi",
+     "eski": true
+    },
+    {
+     "id": 744,
+     "isim": "Barok Kırmızısı",
+     "eski": true
+    },
+    {
+     "id": 133,
+     "isim": "Beni yıka"
+    },
+    {
+     "id": 111,
+     "isim": "Buzul Ağı"
+    },
+    {
+     "id": 1190,
+     "isim": "Dalga Kıran"
+    },
+    {
+     "id": 342,
+     "isim": "Deri",
+     "eski": true
+    },
+    {
+     "id": 849,
+     "isim": "Dünya Dışı",
+     "eski": true
+    },
+    {
+     "id": 1199,
+     "isim": "Düz Kaynak"
+    },
+    {
+     "id": 156,
+     "isim": "Ecel Kedisi",
+     "eski": true
+    },
+    {
+     "id": 100,
+     "isim": "Fırtına"
+    },
+    {
+     "id": 726,
+     "isim": "Gün Batımı Zambağı"
+    },
+    {
+     "id": 1291,
+     "isim": "Hardal Gazı"
+    },
+    {
+     "id": 1020,
+     "isim": "Kadim Dünya"
+    },
+    {
+     "id": 977,
+     "isim": "Kakao Çıldırışı",
+     "eski": true
+    },
+    {
+     "id": 1015,
+     "isim": "Kaplan Çukuru",
+     "eski": true
+    },
+    {
+     "id": 1256,
+     "isim": "Kederli Resif"
+    },
+    {
+     "id": 1000,
+     "isim": "Koş ve Saklan",
+     "eski": true
+    },
+    {
+     "id": 124,
+     "isim": "Kum Spreyi"
+    },
+    {
+     "id": 228,
+     "isim": "Kör Nokta",
+     "eski": true
+    },
+    {
+     "id": 593,
+     "isim": "Mavi Alev",
+     "eski": true
+    },
+    {
+     "id": 1277,
+     "isim": "Mavi Taktik"
+    },
+    {
+     "id": 335,
+     "isim": "Modül",
+     "eski": true
+    },
+    {
+     "id": 911,
+     "isim": "Nostalji",
+     "eski": true
+    },
+    {
+     "id": 234,
+     "isim": "Odun Külü"
+    },
+    {
+     "id": 78,
+     "isim": "Ormanda Gece",
+     "eski": true
+    },
+    {
+     "id": 127,
+     "isim": "Randy Rush"
+    },
+    {
+     "id": 936,
+     "isim": "Saldırı Vektörü"
+    },
+    {
+     "id": 1250,
+     "isim": "ScaraB Rush",
+     "eski": true
+    },
+    {
+     "id": 486,
+     "isim": "Seçkin Yapım",
+     "eski": true
+    },
+    {
+     "id": 67,
+     "isim": "Soğukkanlı",
+     "eski": true
+    },
+    {
+     "id": 636,
+     "isim": "Sığ Mezar",
+     "eski": true
+    },
+    {
+     "id": 776,
+     "isim": "Tesis Negatifi",
+     "eski": true
+    },
+    {
+     "id": 1154,
+     "isim": "Vent Rush",
+     "eski": true
+    },
+    {
+     "id": 20,
+     "isim": "Virüs",
+     "eski": true
+    },
+    {
+     "id": 1332,
+     "isim": "Yarım Ton Çöl"
+    },
+    {
+     "id": 828,
+     "isim": "Yemyeşil Büyüme"
+    },
+    {
+     "id": 1233,
+     "isim": "Yeni Kraliçe",
+     "eski": true
+    },
+    {
+     "id": 969,
+     "isim": "Yük Vagonu",
+     "eski": true
+    },
+    {
+     "id": 244,
+     "isim": "Yırtık"
+    },
+    {
+     "id": 611,
+     "isim": "Zulüm",
+     "eski": true
+    },
+    {
+     "id": 182,
+     "isim": "Zümrüt Ejderha",
+     "eski": true
+    },
+    {
+     "id": 717,
+     "isim": "Çekiş",
+     "eski": true
+    },
+    {
+     "id": 925,
+     "isim": "Çöl DDPAT",
+     "eski": true
+    },
+    {
+     "id": 311,
+     "isim": "Çöl Savaşı",
+     "eski": true
+    },
+    {
+     "id": 1419,
+     "isim": "Ölüm Bakışı"
+    },
+    {
+     "id": 669,
+     "isim": "Ölümün Kuşatması",
+     "eski": true
+    },
+    {
+     "id": 283,
+     "isim": "Üçgen",
+     "eski": true
+    },
+    {
+     "id": 1074,
+     "isim": "Şematik",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 26,
+   "ad": "weapon_bizon",
+   "isim": "PP-Bizon",
+   "skinler": [
+    {
+     "id": 1325,
+     "isim": "Ahşap Blok Kamuflaj"
+    },
+    {
+     "id": 884,
+     "isim": "Ambargo",
+     "eski": true
+    },
+    {
+     "id": 829,
+     "isim": "Anolis",
+     "eski": true
+    },
+    {
+     "id": 306,
+     "isim": "Antika",
+     "eski": true
+    },
+    {
+     "id": 542,
+     "isim": "Anubis'in Adaleti",
+     "eski": true
+    },
+    {
+     "id": 457,
+     "isim": "Bambu Baskısı",
+     "eski": true
+    },
+    {
+     "id": 1374,
+     "isim": "Bizoom"
+    },
+    {
+     "id": 873,
+     "isim": "Deniz Kuşu"
+    },
+    {
+     "id": 3,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 526,
+     "isim": "Fotik Alan",
+     "eski": true
+    },
+    {
+     "id": 236,
+     "isim": "Gece Operasyonu",
+     "eski": true
+    },
+    {
+     "id": 692,
+     "isim": "Gece İsyanı",
+     "eski": true
+    },
+    {
+     "id": 1472,
+     "isim": "Hain"
+    },
+    {
+     "id": 594,
+     "isim": "Hasatçı",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 376,
+     "isim": "Kimyasal Yeşil"
+    },
+    {
+     "id": 148,
+     "isim": "Kum Tireli"
+    },
+    {
+     "id": 1099,
+     "isim": "Lümen",
+     "eski": true
+    },
+    {
+     "id": 13,
+     "isim": "Mavi Şerit",
+     "eski": true
+    },
+    {
+     "id": 164,
+     "isim": "Modern Avcı",
+     "eski": true
+    },
+    {
+     "id": 267,
+     "isim": "Noktalı Kobalt",
+     "eski": true
+    },
+    {
+     "id": 641,
+     "isim": "Orman Rüzgarı",
+     "eski": true
+    },
+    {
+     "id": 25,
+     "isim": "Orman Yaprakları"
+    },
+    {
+     "id": 349,
+     "isim": "Osiris",
+     "eski": true
+    },
+    {
+     "id": 203,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 159,
+     "isim": "Pirinç",
+     "eski": true
+    },
+    {
+     "id": 1418,
+     "isim": "RMX"
+    },
+    {
+     "id": 171,
+     "isim": "Radyasyon Uyarısı",
+     "eski": true
+    },
+    {
+     "id": 973,
+     "isim": "Rünik",
+     "eski": true
+    },
+    {
+     "id": 676,
+     "isim": "Savurgan",
+     "eski": true
+    },
+    {
+     "id": 1083,
+     "isim": "Sigorta Kutusu"
+    },
+    {
+     "id": 297,
+     "isim": "Smokin"
+    },
+    {
+     "id": 770,
+     "isim": "Soğuk Hücre"
+    },
+    {
+     "id": 224,
+     "isim": "Su Mührü",
+     "eski": true
+    },
+    {
+     "id": 1392,
+     "isim": "Sıcak Esinti"
+    },
+    {
+     "id": 775,
+     "isim": "Tesis Planı",
+     "eski": true
+    },
+    {
+     "id": 1125,
+     "isim": "Uzay Kedisi",
+     "eski": true
+    },
+    {
+     "id": 508,
+     "isim": "Yakıt Çubuğu",
+     "eski": true
+    },
+    {
+     "id": 293,
+     "isim": "Ölü Yılan",
+     "eski": true
+    },
+    {
+     "id": 149,
+     "isim": "Şehir Tireli"
+    }
+   ]
+  },
+  {
+   "defindex": 64,
+   "ad": "weapon_revolver",
+   "isim": "R8 Revolver",
+   "skinler": [
+    {
+     "id": 37,
+     "isim": "Alev"
+    },
+    {
+     "id": 1011,
+     "isim": "Anka Keçeli Kalemi",
+     "eski": true
+    },
+    {
+     "id": 866,
+     "isim": "Canal Sprey"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 721,
+     "isim": "Hayatta Kalma Uzmanı",
+     "eski": true
+    },
+    {
+     "id": 1047,
+     "isim": "Hurdalık",
+     "eski": true
+    },
+    {
+     "id": 1445,
+     "isim": "Hükûmdar"
+    },
+    {
+     "id": 952,
+     "isim": "Kadim Kadavra",
+     "eski": true
+    },
+    {
+     "id": 843,
+     "isim": "Kafatası Ezici",
+     "eski": true
+    },
+    {
+     "id": 1237,
+     "isim": "Kakma",
+     "eski": true
+    },
+    {
+     "id": 1363,
+     "isim": "Karanlık Hazne"
+    },
+    {
+     "id": 701,
+     "isim": "Kavrama",
+     "eski": true
+    },
+    {
+     "id": 27,
+     "isim": "Kemik Maske"
+    },
+    {
+     "id": 1276,
+     "isim": "Kobalt Kabza"
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 683,
+     "isim": "Lama Topu",
+     "eski": true
+    },
+    {
+     "id": 1389,
+     "isim": "Leylak Bir Yana"
+    },
+    {
+     "id": 1232,
+     "isim": "Muz Topu",
+     "eski": true
+    },
+    {
+     "id": 254,
+     "isim": "Nitro (254)"
+    },
+    {
+     "id": 798,
+     "isim": "Nitro (798)"
+    },
+    {
+     "id": 522,
+     "isim": "Solgun"
+    },
+    {
+     "id": 523,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 123,
+     "isim": "Tango"
+    },
+    {
+     "id": 892,
+     "isim": "Yadigâr",
+     "eski": true
+    },
+    {
+     "id": 1293,
+     "isim": "Yaprak Piresi"
+    },
+    {
+     "id": 595,
+     "isim": "Yeniden Başlat",
+     "eski": true
+    },
+    {
+     "id": 924,
+     "isim": "Çöl Çalısı",
+     "eski": true
+    },
+    {
+     "id": 1145,
+     "isim": "Çılgın 8",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 38,
+   "ad": "weapon_scar20",
+   "isim": "SCAR-20",
+   "skinler": [
+    {
+     "id": 1470,
+     "isim": "Arktik Kamuflajlı Paneller"
+    },
+    {
+     "id": 914,
+     "isim": "Assault",
+     "eski": true
+    },
+    {
+     "id": 597,
+     "isim": "Avcılık Sporu",
+     "eski": true
+    },
+    {
+     "id": 312,
+     "isim": "Cyrex",
+     "eski": true
+    },
+    {
+     "id": 100,
+     "isim": "Fırtına"
+    },
+    {
+     "id": 612,
+     "isim": "Güç Çekirdeği",
+     "eski": true
+    },
+    {
+     "id": 1343,
+     "isim": "Kafes"
+    },
+    {
+     "id": 60,
+     "isim": "Kara Su",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 391,
+     "isim": "Kardiyak",
+     "eski": true
+    },
+    {
+     "id": 116,
+     "isim": "Kum Ağı"
+    },
+    {
+     "id": 1327,
+     "isim": "Kısa Sarı"
+    },
+    {
+     "id": 232,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 1028,
+     "isim": "Magna Carta",
+     "eski": true
+    },
+    {
+     "id": 406,
+     "isim": "Mağara",
+     "eski": true
+    },
+    {
+     "id": 685,
+     "isim": "Orman Rüzgarı",
+     "eski": true
+    },
+    {
+     "id": 954,
+     "isim": "Otomatik İnfaz",
+     "eski": true
+    },
+    {
+     "id": 157,
+     "isim": "Palmiye"
+    },
+    {
+     "id": 46,
+     "isim": "Paralı Asker"
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 1226,
+     "isim": "Parçalar",
+     "eski": true
+    },
+    {
+     "id": 159,
+     "isim": "Pirinç",
+     "eski": true
+    },
+    {
+     "id": 642,
+     "isim": "Plan",
+     "eski": true
+    },
+    {
+     "id": 165,
+     "isim": "Reçel Lekesi",
+     "eski": true
+    },
+    {
+     "id": 518,
+     "isim": "Salgın",
+     "eski": true
+    },
+    {
+     "id": 1453,
+     "isim": "Sirocco Yazısı"
+    },
+    {
+     "id": 1139,
+     "isim": "Tavukların Geçiti"
+    },
+    {
+     "id": 865,
+     "isim": "Taş Mozaik",
+     "eski": true
+    },
+    {
+     "id": 883,
+     "isim": "Yabani Böğürtlen"
+    },
+    {
+     "id": 502,
+     "isim": "Yeşil Denizci",
+     "eski": true
+    },
+    {
+     "id": 117,
+     "isim": "Yol Gösterici"
+    },
+    {
+     "id": 896,
+     "isim": "Yırtık"
+    },
+    {
+     "id": 196,
+     "isim": "Zümrüt"
+    },
+    {
+     "id": 1371,
+     "isim": "Çinko"
+    }
+   ]
+  },
+  {
+   "defindex": 39,
+   "ad": "weapon_sg556",
+   "isim": "SG 553",
+   "skinler": [
+    {
+     "id": 897,
+     "isim": "4. Koloni",
+     "eski": true
+    },
+    {
+     "id": 702,
+     "isim": "Aloha"
+    },
+    {
+     "id": 1320,
+     "isim": "Ara Ton Sepet"
+    },
+    {
+     "id": 553,
+     "isim": "Atlas",
+     "eski": true
+    },
+    {
+     "id": 378,
+     "isim": "Atık Tehlikesi"
+    },
+    {
+     "id": 935,
+     "isim": "Av"
+    },
+    {
+     "id": 861,
+     "isim": "Barikat"
+    },
+    {
+     "id": 1022,
+     "isim": "Bereketli Harabeler"
+    },
+    {
+     "id": 39,
+     "isim": "Buldozer"
+    },
+    {
+     "id": 901,
+     "isim": "Böğürtlenli Kaplama"
+    },
+    {
+     "id": 1234,
+     "isim": "Cyberforce",
+     "eski": true
+    },
+    {
+     "id": 487,
+     "isim": "Cyrex",
+     "eski": true
+    },
+    {
+     "id": 186,
+     "isim": "Dalga Spreyi"
+    },
+    {
+     "id": 136,
+     "isim": "Delikli Dalgalar"
+    },
+    {
+     "id": 1151,
+     "isim": "Ejderha Teknolojisi",
+     "eski": true
+    },
+    {
+     "id": 864,
+     "isim": "Elma Şekeri"
+    },
+    {
+     "id": 28,
+     "isim": "Eloksal Donanma"
+    },
+    {
+     "id": 1270,
+     "isim": "Gece Kamuflajı"
+    },
+    {
+     "id": 598,
+     "isim": "Havadan",
+     "eski": true
+    },
+    {
+     "id": 686,
+     "isim": "Hayalet",
+     "eski": true
+    },
+    {
+     "id": 1048,
+     "isim": "Heavy Metal",
+     "eski": true
+    },
+    {
+     "id": 61,
+     "isim": "Hipnotik"
+    },
+    {
+     "id": 750,
+     "isim": "Integrale",
+     "eski": true
+    },
+    {
+     "id": 519,
+     "isim": "Kaplan Güve",
+     "eski": true
+    },
+    {
+     "id": 955,
+     "isim": "Kara Kanat",
+     "eski": true
+    },
+    {
+     "id": 101,
+     "isim": "Kasırga"
+    },
+    {
+     "id": 934,
+     "isim": "Kemik Beyazı"
+    },
+    {
+     "id": 243,
+     "isim": "Kertenkele Ağı"
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 287,
+     "isim": "Nabız",
+     "eski": true
+    },
+    {
+     "id": 966,
+     "isim": "Ol' Rusty",
+     "eski": true
+    },
+    {
+     "id": 298,
+     "isim": "Parlak Ordu",
+     "eski": true
+    },
+    {
+     "id": 1084,
+     "isim": "Risk Ödemesi",
+     "eski": true
+    },
+    {
+     "id": 1394,
+     "isim": "Safari Baskısı"
+    },
+    {
+     "id": 613,
+     "isim": "Triarch",
+     "eski": true
+    },
+    {
+     "id": 815,
+     "isim": "Yakın Tehlike",
+     "eski": true
+    },
+    {
+     "id": 363,
+     "isim": "Yolcu",
+     "eski": true
+    },
+    {
+     "id": 765,
+     "isim": "Çöl Çiçeği"
+    },
+    {
+     "id": 247,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 40,
+   "ad": "weapon_ssg08",
+   "isim": "SSG 08",
+   "skinler": [
+    {
+     "id": 361,
+     "isim": "Abis",
+     "eski": true
+    },
+    {
+     "id": 967,
+     "isim": "Ana Bilgisayar 001",
+     "eski": true
+    },
+    {
+     "id": 1187,
+     "isim": "Anıt"
+    },
+    {
+     "id": 877,
+     "isim": "Ara Ton Kıvrım"
+    },
+    {
+     "id": 935,
+     "isim": "Av"
+    },
+    {
+     "id": 503,
+     "isim": "Büyük Demir",
+     "eski": true
+    },
+    {
+     "id": 868,
+     "isim": "Deniz Pamuğu",
+     "eski": true
+    },
+    {
+     "id": 1161,
+     "isim": "Dezastre"
+    },
+    {
+     "id": 624,
+     "isim": "Ejder Ateşi",
+     "eski": true
+    },
+    {
+     "id": 751,
+     "isim": "El Freni",
+     "eski": true
+    },
+    {
+     "id": 1271,
+     "isim": "Gri Duman"
+    },
+    {
+     "id": 554,
+     "isim": "Hayalet Akıncı",
+     "eski": true
+    },
+    {
+     "id": 956,
+     "isim": "Hezeyan",
+     "eski": true
+    },
+    {
+     "id": 128,
+     "isim": "Hızlı Ulaşım"
+    },
+    {
+     "id": 1379,
+     "isim": "Kaligrafi"
+    },
+    {
+     "id": 899,
+     "isim": "Kan Çanağı",
+     "eski": true
+    },
+    {
+     "id": 1289,
+     "isim": "Kaplan Pençesi"
+    },
+    {
+     "id": 60,
+     "isim": "Kara Su",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 304,
+     "isim": "Kesilmiş",
+     "eski": true
+    },
+    {
+     "id": 99,
+     "isim": "Kumul"
+    },
+    {
+     "id": 670,
+     "isim": "Kuru Kafa Kelebeği",
+     "eski": true
+    },
+    {
+     "id": 762,
+     "isim": "Kızıl Taş"
+    },
+    {
+     "id": 1251,
+     "isim": "Mavi Glif",
+     "eski": true
+    },
+    {
+     "id": 96,
+     "isim": "Mavi Ladin"
+    },
+    {
+     "id": 200,
+     "isim": "Mayalı Düşleri",
+     "eski": true
+    },
+    {
+     "id": 538,
+     "isim": "Necropos",
+     "eski": true
+    },
+    {
+     "id": 147,
+     "isim": "Orman Tireli"
+    },
+    {
+     "id": 989,
+     "isim": "Paralaks",
+     "eski": true
+    },
+    {
+     "id": 1316,
+     "isim": "Pembe Birleşim"
+    },
+    {
+     "id": 1372,
+     "isim": "Sans Comic"
+    },
+    {
+     "id": 319,
+     "isim": "Sapma",
+     "eski": true
+    },
+    {
+     "id": 253,
+     "isim": "Solgun Asit"
+    },
+    {
+     "id": 222,
+     "isim": "Sudaki Kan",
+     "eski": true
+    },
+    {
+     "id": 996,
+     "isim": "Tehdit Saptandı",
+     "eski": true
+    },
+    {
+     "id": 233,
+     "isim": "Tropikal Fırtına"
+    },
+    {
+     "id": 1101,
+     "isim": "Turbo Peek",
+     "eski": true
+    },
+    {
+     "id": 743,
+     "isim": "Turuncu Filigran",
+     "eski": true
+    },
+    {
+     "id": 1304,
+     "isim": "Yeşil Seramik"
+    },
+    {
+     "id": 26,
+     "isim": "Yosun Tireli"
+    },
+    {
+     "id": 513,
+     "isim": "Zeno"
+    },
+    {
+     "id": 1052,
+     "isim": "Ölüm Saldırısı",
+     "eski": true
+    },
+    {
+     "id": 1060,
+     "isim": "İlkbahar Eşarbı",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 29,
+   "ad": "weapon_sawedoff",
+   "isim": "Sawed-Off",
+   "skinler": [
+    {
+     "id": 119,
+     "isim": "Adaçayı Spreyi"
+    },
+    {
+     "id": 1160,
+     "isim": "Analog Girdi"
+    },
+    {
+     "id": 953,
+     "isim": "Apokalipto",
+     "eski": true
+    },
+    {
+     "id": 1475,
+     "isim": "Ay Yılanı"
+    },
+    {
+     "id": 673,
+     "isim": "Bahar Dansı",
+     "eski": true
+    },
+    {
+     "id": 41,
+     "isim": "Bakır"
+    },
+    {
+     "id": 458,
+     "isim": "Bambu Gölgesi",
+     "eski": true
+    },
+    {
+     "id": 345,
+     "isim": "Birinci Sınıf",
+     "eski": true
+    },
+    {
+     "id": 596,
+     "isim": "Dikkat Çeker",
+     "eski": true
+    },
+    {
+     "id": 390,
+     "isim": "Eşkıya",
+     "eski": true
+    },
+    {
+     "id": 797,
+     "isim": "Fren Lambası",
+     "eski": true
+    },
+    {
+     "id": 552,
+     "isim": "Fubar",
+     "eski": true
+    },
+    {
+     "id": 1427,
+     "isim": "Füzyon"
+    },
+    {
+     "id": 405,
+     "isim": "Huzur",
+     "eski": true
+    },
+    {
+     "id": 814,
+     "isim": "Kara Kum",
+     "eski": true
+    },
+    {
+     "id": 1014,
+     "isim": "Kil Tuzağı",
+     "eski": true
+    },
+    {
+     "id": 256,
+     "isim": "Kraken",
+     "eski": true
+    },
+    {
+     "id": 1391,
+     "isim": "Kızıl Batik"
+    },
+    {
+     "id": 204,
+     "isim": "Mozaik",
+     "eski": true
+    },
+    {
+     "id": 434,
+     "isim": "Origami",
+     "eski": true
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 870,
+     "isim": "Orman Çalılığı"
+    },
+    {
+     "id": 323,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 171,
+     "isim": "Radyasyon Uyarısı",
+     "eski": true
+    },
+    {
+     "id": 1140,
+     "isim": "Ruh Tahtası",
+     "eski": true
+    },
+    {
+     "id": 1272,
+     "isim": "Runoff"
+    },
+    {
+     "id": 246,
+     "isim": "Solgun Sarı"
+    },
+    {
+     "id": 250,
+     "isim": "Son Durak",
+     "eski": true
+    },
+    {
+     "id": 880,
+     "isim": "Susuz",
+     "eski": true
+    },
+    {
+     "id": 83,
+     "isim": "Turuncu DDPAT",
+     "eski": true
+    },
+    {
+     "id": 655,
+     "isim": "Uzun Levrek",
+     "eski": true
+    },
+    {
+     "id": 720,
+     "isim": "Yok Edici",
+     "eski": true
+    },
+    {
+     "id": 517,
+     "isim": "Yorick",
+     "eski": true
+    },
+    {
+     "id": 30,
+     "isim": "Yılan Kamuflaj"
+    },
+    {
+     "id": 638,
+     "isim": "Çöl Prensesi",
+     "eski": true
+    },
+    {
+     "id": 1155,
+     "isim": "Öpücük♥Aşk",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 57,
+   "ad": "weapon_healthshot",
+   "isim": "Sağlık Aşısı",
+   "skinler": []
+  },
+  {
+   "defindex": 45,
+   "ad": "weapon_smokegrenade",
+   "isim": "Sis Bombası",
+   "skinler": []
+  },
+  {
+   "defindex": 30,
+   "ad": "weapon_tec9",
+   "isim": "Tec-9",
+   "skinler": [
+    {
+     "id": 1010,
+     "isim": "Anka Tebeşiri",
+     "eski": true
+    },
+    {
+     "id": 459,
+     "isim": "Bambu Ormanı",
+     "eski": true
+    },
+    {
+     "id": 1214,
+     "isim": "Beyaz Körlük"
+    },
+    {
+     "id": 599,
+     "isim": "Buz Şapka",
+     "eski": true
+    },
+    {
+     "id": 1159,
+     "isim": "Cüruf"
+    },
+    {
+     "id": 889,
+     "isim": "Decimator",
+     "eski": true
+    },
+    {
+     "id": 795,
+     "isim": "Emniyet Ağı",
+     "eski": true
+    },
+    {
+     "id": 905,
+     "isim": "Flaş",
+     "eski": true
+    },
+    {
+     "id": 1286,
+     "isim": "Garter-9"
+    },
+    {
+     "id": 1024,
+     "isim": "Geçmişten Bir Anı",
+     "eski": true
+    },
+    {
+     "id": 1299,
+     "isim": "Ham Seramik"
+    },
+    {
+     "id": 303,
+     "isim": "Isaac",
+     "eski": true
+    },
+    {
+     "id": 539,
+     "isim": "Jambiya",
+     "eski": true
+    },
+    {
+     "id": 839,
+     "isim": "Kandırılmış",
+     "eski": true
+    },
+    {
+     "id": 766,
+     "isim": "Kaplan Şablonu"
+    },
+    {
+     "id": 964,
+     "isim": "Kardeş",
+     "eski": true
+    },
+    {
+     "id": 206,
+     "isim": "Kasırga"
+    },
+    {
+     "id": 36,
+     "isim": "Kemikleşmiş",
+     "eski": true
+    },
+    {
+     "id": 671,
+     "isim": "Kesim",
+     "eski": true
+    },
+    {
+     "id": 1252,
+     "isim": "Kokuşmuş Mumya",
+     "eski": true
+    },
+    {
+     "id": 289,
+     "isim": "Kum Fırtınası",
+     "eski": true
+    },
+    {
+     "id": 248,
+     "isim": "Kırmızı Kuvars",
+     "eski": true
+    },
+    {
+     "id": 1279,
+     "isim": "Mavi Patlama"
+    },
+    {
+     "id": 216,
+     "isim": "Mavi Titanyum"
+    },
+    {
+     "id": 1384,
+     "isim": "Muz Yaprağı"
+    },
+    {
+     "id": 179,
+     "isim": "Nükleer Tehdit"
+    },
+    {
+     "id": 242,
+     "isim": "Ordu Ağı"
+    },
+    {
+     "id": 733,
+     "isim": "Pas Rengi Yaprak"
+    },
+    {
+     "id": 159,
+     "isim": "Pirinç",
+     "eski": true
+    },
+    {
+     "id": 1322,
+     "isim": "Sitrik Asit"
+    },
+    {
+     "id": 722,
+     "isim": "Snek-9",
+     "eski": true
+    },
+    {
+     "id": 1462,
+     "isim": "Sultan"
+    },
+    {
+     "id": 816,
+     "isim": "Tarumar",
+     "eski": true
+    },
+    {
+     "id": 463,
+     "isim": "Teras",
+     "eski": true
+    },
+    {
+     "id": 272,
+     "isim": "Titanyum Matkap",
+     "eski": true
+    },
+    {
+     "id": 374,
+     "isim": "Toksik",
+     "eski": true
+    },
+    {
+     "id": 738,
+     "isim": "Turuncu Murano",
+     "eski": true
+    },
+    {
+     "id": 791,
+     "isim": "Uzaktan Kumanda",
+     "eski": true
+    },
+    {
+     "id": 235,
+     "isim": "Vari Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 614,
+     "isim": "Yakıt Enjektörü",
+     "eski": true
+    },
+    {
+     "id": 555,
+     "isim": "Yeniden Giriş",
+     "eski": true
+    },
+    {
+     "id": 2,
+     "isim": "Yeraltı Suyu"
+    },
+    {
+     "id": 684,
+     "isim": "Çatlamış Opal",
+     "eski": true
+    },
+    {
+     "id": 1447,
+     "isim": "Çeper"
+    },
+    {
+     "id": 520,
+     "isim": "Çığ",
+     "eski": true
+    },
+    {
+     "id": 439,
+     "isim": "Ölüler Diyarı",
+     "eski": true
+    },
+    {
+     "id": 1235,
+     "isim": "İsyancı",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 24,
+   "ad": "weapon_ump45",
+   "isim": "UMP-45",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 37,
+     "isim": "Alev"
+    },
+    {
+     "id": 990,
+     "isim": "Altın Bizmut",
+     "eski": true
+    },
+    {
+     "id": 782,
+     "isim": "Anakart",
+     "eski": true
+    },
+    {
+     "id": 169,
+     "isim": "Atık Tehlikesi",
+     "eski": true
+    },
+    {
+     "id": 851,
+     "isim": "Ay Doğumu",
+     "eski": true
+    },
+    {
+     "id": 1157,
+     "isim": "Barikat",
+     "eski": true
+    },
+    {
+     "id": 488,
+     "isim": "Başkaldırı",
+     "eski": true
+    },
+    {
+     "id": 1203,
+     "isim": "Gece Ulaşımı"
+    },
+    {
+     "id": 436,
+     "isim": "Grand Prix",
+     "eski": true
+    },
+    {
+     "id": 725,
+     "isim": "Gün Güzeli",
+     "eski": true
+    },
+    {
+     "id": 93,
+     "isim": "Karamel"
+    },
+    {
+     "id": 778,
+     "isim": "Karanlık Tesis",
+     "eski": true
+    },
+    {
+     "id": 70,
+     "isim": "Karbon Fiber",
+     "eski": true
+    },
+    {
+     "id": 1008,
+     "isim": "Kazayağı",
+     "eski": true
+    },
+    {
+     "id": 193,
+     "isim": "Kemik Yığını"
+    },
+    {
+     "id": 704,
+     "isim": "Kutup Kurdu",
+     "eski": true
+    },
+    {
+     "id": 412,
+     "isim": "Kızıl Folyo"
+    },
+    {
+     "id": 362,
+     "isim": "Labirent",
+     "eski": true
+    },
+    {
+     "id": 1426,
+     "isim": "Leş Alıcı"
+    },
+    {
+     "id": 1085,
+     "isim": "Mekanizma"
+    },
+    {
+     "id": 672,
+     "isim": "Metal Çiçekler",
+     "eski": true
+    },
+    {
+     "id": 441,
+     "isim": "Minotor'un Labirenti",
+     "eski": true
+    },
+    {
+     "id": 802,
+     "isim": "Momentum",
+     "eski": true
+    },
+    {
+     "id": 1175,
+     "isim": "Motorlu"
+    },
+    {
+     "id": 1194,
+     "isim": "Nakavt Fabrikası"
+    },
+    {
+     "id": 131,
+     "isim": "Neo-Noir"
+    },
+    {
+     "id": 281,
+     "isim": "Onbaşı",
+     "eski": true
+    },
+    {
+     "id": 1049,
+     "isim": "Osilatör",
+     "eski": true
+    },
+    {
+     "id": 916,
+     "isim": "Plastik Patlayıcı",
+     "eski": true
+    },
+    {
+     "id": 15,
+     "isim": "Silah Dumanı",
+     "eski": true
+    },
+    {
+     "id": 752,
+     "isim": "Solgun (752)"
+    },
+    {
+     "id": 879,
+     "isim": "Solgun (879)"
+    },
+    {
+     "id": 250,
+     "isim": "Son Durak",
+     "eski": true
+    },
+    {
+     "id": 1003,
+     "isim": "Suç Mahali",
+     "eski": true
+    },
+    {
+     "id": 1351,
+     "isim": "Süreklilik"
+    },
+    {
+     "id": 1387,
+     "isim": "Sıcakkanlı"
+    },
+    {
+     "id": 615,
+     "isim": "Talimat",
+     "eski": true
+    },
+    {
+     "id": 688,
+     "isim": "Teşhir",
+     "eski": true
+    },
+    {
+     "id": 1236,
+     "isim": "Yabani Çocuk",
+     "eski": true
+    },
+    {
+     "id": 392,
+     "isim": "Yanılgı"
+    },
+    {
+     "id": 1303,
+     "isim": "Yeşil Sarmal"
+    },
+    {
+     "id": 90,
+     "isim": "Çamurlu",
+     "eski": true
+    },
+    {
+     "id": 333,
+     "isim": "Çivit"
+    },
+    {
+     "id": 556,
+     "isim": "İlkel Kılıç",
+     "eski": true
+    },
+    {
+     "id": 652,
+     "isim": "İskele",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 61,
+   "ad": "weapon_usp_silencer",
+   "isim": "USP-S",
+   "skinler": [
+    {
+     "id": 115,
+     "isim": "27"
+    },
+    {
+     "id": 830,
+     "isim": "Alp Kamuflajı"
+    },
+    {
+     "id": 817,
+     "isim": "Anımsama",
+     "eski": true
+    },
+    {
+     "id": 454,
+     "isim": "Asker Yeşili",
+     "eski": true
+    },
+    {
+     "id": 1065,
+     "isim": "Beyaz Körlük"
+    },
+    {
+     "id": 991,
+     "isim": "Canavar Çalışması",
+     "eski": true
+    },
+    {
+     "id": 1136,
+     "isim": "Cehenneme Bilet",
+     "eski": true
+    },
+    {
+     "id": 637,
+     "isim": "Cyrex",
+     "eski": true
+    },
+    {
+     "id": 236,
+     "isim": "Gece Operasyonu",
+     "eski": true
+    },
+    {
+     "id": 1040,
+     "isim": "Hain",
+     "eski": true
+    },
+    {
+     "id": 1027,
+     "isim": "Hedef Görüldü",
+     "eski": true
+    },
+    {
+     "id": 705,
+     "isim": "Kabuk",
+     "eski": true
+    },
+    {
+     "id": 1031,
+     "isim": "Kadim Düşler",
+     "eski": true
+    },
+    {
+     "id": 217,
+     "isim": "Kan Kaplanı",
+     "eski": true
+    },
+    {
+     "id": 1323,
+     "isim": "Kanayan Kenar"
+    },
+    {
+     "id": 60,
+     "isim": "Kara Su",
+     "eski": true
+    },
+    {
+     "id": 318,
+     "isim": "Kaza Çizikleri",
+     "eski": true
+    },
+    {
+     "id": 332,
+     "isim": "Kraliyet Mavisi",
+     "eski": true
+    },
+    {
+     "id": 1217,
+     "isim": "Kraliyet Muhafızı"
+    },
+    {
+     "id": 540,
+     "isim": "Kurşun Namlu",
+     "eski": true
+    },
+    {
+     "id": 443,
+     "isim": "Kâşif"
+    },
+    {
+     "id": 504,
+     "isim": "Leş Onaylandı",
+     "eski": true
+    },
+    {
+     "id": 818,
+     "isim": "Mor DDPAT",
+     "eski": true
+    },
+    {
+     "id": 796,
+     "isim": "Motor Kontrol"
+    },
+    {
+     "id": 290,
+     "isim": "Muhafız",
+     "eski": true
+    },
+    {
+     "id": 653,
+     "isim": "Neo-Noir",
+     "eski": true
+    },
+    {
+     "id": 313,
+     "isim": "Orion",
+     "eski": true
+    },
+    {
+     "id": 25,
+     "isim": "Orman Yaprakları"
+    },
+    {
+     "id": 1186,
+     "isim": "PC-GRN"
+    },
+    {
+     "id": 277,
+     "isim": "Paslanmaz",
+     "eski": true
+    },
+    {
+     "id": 1142,
+     "isim": "Printstream",
+     "eski": true
+    },
+    {
+     "id": 657,
+     "isim": "Proje",
+     "eski": true
+    },
+    {
+     "id": 183,
+     "isim": "Sarmaşık",
+     "eski": true
+    },
+    {
+     "id": 221,
+     "isim": "Serum",
+     "eski": true
+    },
+    {
+     "id": 1431,
+     "isim": "Sessiz Atış"
+    },
+    {
+     "id": 1102,
+     "isim": "Siyah Lotus",
+     "eski": true
+    },
+    {
+     "id": 1451,
+     "isim": "Spiral Bozulma"
+    },
+    {
+     "id": 364,
+     "isim": "Ticari Sınıf",
+     "eski": true
+    },
+    {
+     "id": 339,
+     "isim": "Timsah",
+     "eski": true
+    },
+    {
+     "id": 489,
+     "isim": "Tork",
+     "eski": true
+    },
+    {
+     "id": 1284,
+     "isim": "Tropikal Esinti"
+    },
+    {
+     "id": 922,
+     "isim": "Turuncu Anolis",
+     "eski": true
+    },
+    {
+     "id": 1377,
+     "isim": "Uyku İksiri"
+    },
+    {
+     "id": 1173,
+     "isim": "Çene Kıran"
+    },
+    {
+     "id": 1253,
+     "isim": "Çöl Taktikleri",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 25,
+   "ad": "weapon_xm1014",
+   "isim": "XM1014",
+   "skinler": [
+    {
+     "id": 1182,
+     "isim": "Alaycı Kuş"
+    },
+    {
+     "id": 850,
+     "isim": "Alev Timsahı",
+     "eski": true
+    },
+    {
+     "id": 166,
+     "isim": "Alev Turuncusu",
+     "eski": true
+    },
+    {
+     "id": 834,
+     "isim": "Ara Ton Geçişi"
+    },
+    {
+     "id": 169,
+     "isim": "Atık Tehlikesi",
+     "eski": true
+    },
+    {
+     "id": 1287,
+     "isim": "Bakır Kamuflaj"
+    },
+    {
+     "id": 1103,
+     "isim": "Bekçi Köpeği",
+     "eski": true
+    },
+    {
+     "id": 1333,
+     "isim": "Bulutlu Tuval"
+    },
+    {
+     "id": 760,
+     "isim": "Buzlu Borre",
+     "eski": true
+    },
+    {
+     "id": 407,
+     "isim": "Cıva",
+     "eski": true
+    },
+    {
+     "id": 135,
+     "isim": "Delikli Şehir"
+    },
+    {
+     "id": 146,
+     "isim": "Eriyen Canavarlar"
+    },
+    {
+     "id": 1471,
+     "isim": "Gizli Üs"
+    },
+    {
+     "id": 314,
+     "isim": "Gökyüzü Muhafızı",
+     "eski": true
+    },
+    {
+     "id": 970,
+     "isim": "Gömülmüş",
+     "eski": true
+    },
+    {
+     "id": 1254,
+     "isim": "Hiyeroglifler",
+     "eski": true
+    },
+    {
+     "id": 1174,
+     "isim": "Irezumi"
+    },
+    {
+     "id": 1215,
+     "isim": "Issızlık"
+    },
+    {
+     "id": 1021,
+     "isim": "Kadim Hikâye",
+     "eski": true
+    },
+    {
+     "id": 240,
+     "isim": "Kali Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 370,
+     "isim": "Kemik Makinesi",
+     "eski": true
+    },
+    {
+     "id": 1201,
+     "isim": "Koş koş koş"
+    },
+    {
+     "id": 348,
+     "isim": "Kırmızı Deri",
+     "eski": true
+    },
+    {
+     "id": 320,
+     "isim": "Kırmızı Piton",
+     "eski": true
+    },
+    {
+     "id": 96,
+     "isim": "Mavi Ladin"
+    },
+    {
+     "id": 1078,
+     "isim": "Mavi Tekerlek"
+    },
+    {
+     "id": 238,
+     "isim": "Mavi Vari Kamuflaj",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 654,
+     "isim": "Mevsimler",
+     "eski": true
+    },
+    {
+     "id": 731,
+     "isim": "Muz Yaprağı",
+     "eski": true
+    },
+    {
+     "id": 706,
+     "isim": "Oksit Alevi",
+     "eski": true
+    },
+    {
+     "id": 205,
+     "isim": "Orman"
+    },
+    {
+     "id": 616,
+     "isim": "Pervane Rüzgarı",
+     "eski": true
+    },
+    {
+     "id": 1267,
+     "isim": "Sakız Kamuflajı"
+    },
+    {
+     "id": 557,
+     "isim": "Siyah Kravat",
+     "eski": true
+    },
+    {
+     "id": 393,
+     "isim": "Sükûnet",
+     "eski": true
+    },
+    {
+     "id": 521,
+     "isim": "Teclu Lambası",
+     "eski": true
+    },
+    {
+     "id": 505,
+     "isim": "Uskumru",
+     "eski": true
+    },
+    {
+     "id": 1046,
+     "isim": "XOXO",
+     "eski": true
+    },
+    {
+     "id": 1381,
+     "isim": "XoooM"
+    },
+    {
+     "id": 821,
+     "isim": "Zarif Sarmaşıklar",
+     "eski": true
+    },
+    {
+     "id": 689,
+     "isim": "Ziggy",
+     "eski": true
+    },
+    {
+     "id": 1135,
+     "isim": "Zombi Offensive",
+     "eski": true
+    },
+    {
+     "id": 95,
+     "isim": "Çayır"
+    },
+    {
+     "id": 994,
+     "isim": "İmtiyaz",
+     "eski": true
+    },
+    {
+     "id": 17,
+     "isim": "Şehir DDPAT",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 48,
+   "ad": "weapon_incgrenade",
+   "isim": "Yanıcı Bomba",
+   "skinler": []
+  },
+  {
+   "defindex": 47,
+   "ad": "weapon_decoy",
+   "isim": "Yanıltıcı Bomba",
+   "skinler": []
+  },
+  {
+   "defindex": 31,
+   "ad": "weapon_taser",
+   "isim": "Zeus x27",
+   "skinler": [
+    {
+     "id": 1297,
+     "isim": "Bataklık DDPAT"
+    },
+    {
+     "id": 292,
+     "isim": "Ejder Horlaması"
+    },
+    {
+     "id": 1268,
+     "isim": "Elektrik Mavisi"
+    },
+    {
+     "id": 1172,
+     "isim": "Olimpos"
+    },
+    {
+     "id": 1382,
+     "isim": "Toprak Desenli Mandala"
+    },
+    {
+     "id": 1183,
+     "isim": "Tosai"
+    },
+    {
+     "id": 1205,
+     "isim": "Şarjlı"
+    }
+   ]
+  },
+  {
+   "defindex": 2,
+   "ad": "weapon_elite",
+   "isim": "Çift Beretta",
+   "skinler": [
+    {
+     "id": 625,
+     "isim": "Asil Yoldaşlar",
+     "eski": true
+    },
+    {
+     "id": 1335,
+     "isim": "BorDeux"
+    },
+    {
+     "id": 860,
+     "isim": "Cenaze Ateşi",
+     "eski": true
+    },
+    {
+     "id": 307,
+     "isim": "Cezalandırıcı",
+     "eski": true
+    },
+    {
+     "id": 1290,
+     "isim": "Cilalı Malahit"
+    },
+    {
+     "id": 895,
+     "isim": "Denge",
+     "eski": true
+    },
+    {
+     "id": 978,
+     "isim": "Dezastre",
+     "eski": true
+    },
+    {
+     "id": 447,
+     "isim": "Düellocu",
+     "eski": true
+    },
+    {
+     "id": 903,
+     "isim": "Elite 1.6",
+     "eski": true
+    },
+    {
+     "id": 28,
+     "isim": "Eloksal Donanma"
+    },
+    {
+     "id": 1156,
+     "isim": "Etobur Bitki",
+     "eski": true
+    },
+    {
+     "id": 330,
+     "isim": "Funda",
+     "eski": true
+    },
+    {
+     "id": 1373,
+     "isim": "Gümüş Döküm"
+    },
+    {
+     "id": 544,
+     "isim": "Havalandırmalar",
+     "eski": true
+    },
+    {
+     "id": 220,
+     "isim": "Hemoglobin",
+     "eski": true
+    },
+    {
+     "id": 112,
+     "isim": "Hidro Saldırı"
+    },
+    {
+     "id": 528,
+     "isim": "Kartel",
+     "eski": true
+    },
+    {
+     "id": 249,
+     "isim": "Kobalt Kuvars",
+     "eski": true
+    },
+    {
+     "id": 658,
+     "isim": "Kobra Saldırısı",
+     "eski": true
+    },
+    {
+     "id": 47,
+     "isim": "Koloni"
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 261,
+     "isim": "Marina",
+     "eski": true
+    },
+    {
+     "id": 1347,
+     "isim": "Meleksi Gözler"
+    },
+    {
+     "id": 1126,
+     "isim": "Melondrama",
+     "eski": true
+    },
+    {
+     "id": 1459,
+     "isim": "Mistik Bağlanma"
+    },
+    {
+     "id": 78,
+     "isim": "Ormanda Gece",
+     "eski": true
+    },
+    {
+     "id": 276,
+     "isim": "Panter"
+    },
+    {
+     "id": 46,
+     "isim": "Paralı Asker"
+    },
+    {
+     "id": 710,
+     "isim": "Parça"
+    },
+    {
+     "id": 998,
+     "isim": "Santral",
+     "eski": true
+    },
+    {
+     "id": 1263,
+     "isim": "Sedefli Gül"
+    },
+    {
+     "id": 190,
+     "isim": "Siyah Limba",
+     "eski": true
+    },
+    {
+     "id": 1005,
+     "isim": "Soygun",
+     "eski": true
+    },
+    {
+     "id": 824,
+     "isim": "Sürüklenen Ahşap"
+    },
+    {
+     "id": 1169,
+     "isim": "Sığınak"
+    },
+    {
+     "id": 139,
+     "isim": "Tatlı Küçük Melekler"
+    },
+    {
+     "id": 450,
+     "isim": "Terazi'deki Ay",
+     "eski": true
+    },
+    {
+     "id": 1086,
+     "isim": "Yağ Değişimi"
+    },
+    {
+     "id": 153,
+     "isim": "Yıkım"
+    },
+    {
+     "id": 453,
+     "isim": "Zümrüt"
+    },
+    {
+     "id": 747,
+     "isim": "Çift Turbo",
+     "eski": true
+    },
+    {
+     "id": 491,
+     "isim": "Çifte Ejderhalar",
+     "eski": true
+    },
+    {
+     "id": 1091,
+     "isim": "İncelik",
+     "eski": true
+    },
+    {
+     "id": 396,
+     "isim": "Şehir Şoku",
+     "eski": true
+    }
+   ]
+  }
+ ],
+ "bicaklar": [
+  {
+   "defindex": 509,
+   "ad": "weapon_knife_tactical",
+   "isim": "Avcı Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 1107,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 620,
+     "isim": "Morötesi",
+     "eski": true
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1117,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 1112,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 500,
+   "ad": "weapon_bayonet",
+   "isim": "Bayonet",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 580,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 558,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 573,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 578,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 563,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 514,
+   "ad": "weapon_knife_survival_bowie",
+   "isim": "Bowie Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 1104,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1114,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 1109,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 516,
+   "ad": "weapon_knife_push",
+   "isim": "Gölge Hançerler",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 618,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 617,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 619,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 1108,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1118,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 1113,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 521,
+   "ad": "weapon_knife_outdoor",
+   "isim": "Göçebe Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 518,
+   "ad": "weapon_knife_canis",
+   "isim": "Hayatta Kalma Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 506,
+   "ad": "weapon_knife_gut",
+   "isim": "Kancalı Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 580,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 560,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 575,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 578,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 565,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 507,
+   "ad": "weapon_knife_karambit",
+   "isim": "Karambit",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 582,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 561,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 576,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 578,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 566,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 515,
+   "ad": "weapon_knife_butterfly",
+   "isim": "Kelebek Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 618,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 617,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 619,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 1105,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1115,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 1110,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 503,
+   "ad": "weapon_knife_css",
+   "isim": "Klasik Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    }
+   ]
+  },
+  {
+   "defindex": 526,
+   "ad": "weapon_knife_kukri",
+   "isim": "Kukri Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    }
+   ]
+  },
+  {
+   "defindex": 508,
+   "ad": "weapon_knife_m9_bayonet",
+   "isim": "M9 Bayonet",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 562,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 577,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 567,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 520,
+   "ad": "weapon_knife_gypsy_jackknife",
+   "isim": "Navaja Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 857,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 512,
+   "ad": "weapon_knife_falchion",
+   "isim": "Pala Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 581,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 1106,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 621,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 1116,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 579,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 1111,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 411,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 517,
+   "ad": "weapon_knife_cord",
+   "isim": "Paraşüt Kordonu Saplı Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 621,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 522,
+   "ad": "weapon_knife_stiletto",
+   "isim": "Stiletto Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 857,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 505,
+   "ad": "weapon_knife_flip",
+   "isim": "Sustalı Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 580,
+     "isim": "Boşel",
+     "eski": true
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 569,
+     "isim": "Gamma Doppler (Faz 1)"
+    },
+    {
+     "id": 570,
+     "isim": "Gamma Doppler (Faz 2)"
+    },
+    {
+     "id": 571,
+     "isim": "Gamma Doppler (Faz 3)"
+    },
+    {
+     "id": 572,
+     "isim": "Gamma Doppler (Faz 4)"
+    },
+    {
+     "id": 568,
+     "isim": "Gamma Doppler (Zümrüt)"
+    },
+    {
+     "id": 40,
+     "isim": "Gece"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 559,
+     "isim": "Mazi",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 574,
+     "isim": "Ototronik",
+     "eski": true
+    },
+    {
+     "id": 578,
+     "isim": "Parlak Su",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 564,
+     "isim": "Siyah Laminant",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 523,
+   "ad": "weapon_knife_widowmaker",
+   "isim": "Talon Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 852,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 853,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 854,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 855,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 856,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 858,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 519,
+   "ad": "weapon_knife_ursus",
+   "isim": "Ursus Bıçağı",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 857,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  },
+  {
+   "defindex": 525,
+   "ad": "weapon_knife_skeleton",
+   "isim": "İskelet Bıçak",
+   "skinler": [
+    {
+     "id": 175,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 418,
+     "isim": "Doppler (Faz 1)"
+    },
+    {
+     "id": 419,
+     "isim": "Doppler (Faz 2)"
+    },
+    {
+     "id": 420,
+     "isim": "Doppler (Faz 3)"
+    },
+    {
+     "id": 421,
+     "isim": "Doppler (Faz 4)"
+    },
+    {
+     "id": 417,
+     "isim": "Doppler (Kara İnci)"
+    },
+    {
+     "id": 416,
+     "isim": "Doppler (Safir)"
+    },
+    {
+     "id": 415,
+     "isim": "Doppler (Yakut)"
+    },
+    {
+     "id": 735,
+     "isim": "Gece Çizgisi"
+    },
+    {
+     "id": 143,
+     "isim": "Gizli Şehir"
+    },
+    {
+     "id": 409,
+     "isim": "Kaplan Dişi",
+     "eski": true
+    },
+    {
+     "id": 59,
+     "isim": "Katliam",
+     "eski": true
+    },
+    {
+     "id": 77,
+     "isim": "Kuzey Ormanı",
+     "eski": true
+    },
+    {
+     "id": 12,
+     "isim": "Kızıl Ağ",
+     "eski": true
+    },
+    {
+     "id": 43,
+     "isim": "Lekeli",
+     "eski": true
+    },
+    {
+     "id": 42,
+     "isim": "Mavi Çelik",
+     "eski": true
+    },
+    {
+     "id": 98,
+     "isim": "Morötesi"
+    },
+    {
+     "id": 5,
+     "isim": "Orman DDPAT",
+     "eski": true
+    },
+    {
+     "id": 414,
+     "isim": "Pas Kaplı",
+     "eski": true
+    },
+    {
+     "id": 72,
+     "isim": "Safari Ağı"
+    },
+    {
+     "id": 44,
+     "isim": "Sertleştirilmiş Kasa",
+     "eski": true
+    },
+    {
+     "id": 38,
+     "isim": "Solgun"
+    },
+    {
+     "id": 413,
+     "isim": "Solgun Mermer",
+     "eski": true
+    },
+    {
+     "id": 410,
+     "isim": "Şam Çeliği",
+     "eski": true
+    }
+   ]
+  }
+ ],
+ "eldivenler": [
+  {
+   "defindex": 5032,
+   "ad": "leather_handwraps",
+   "isim": "El Sargıları",
+   "skinler": [
+    {
+     "id": 10056,
+     "isim": "Ağaçsı"
+    },
+    {
+     "id": 10083,
+     "isim": "Boa Yılanı"
+    },
+    {
+     "id": 10009,
+     "isim": "Deri"
+    },
+    {
+     "id": 10084,
+     "isim": "DİKKAT!"
+    },
+    {
+     "id": 10021,
+     "isim": "Katliam"
+    },
+    {
+     "id": 10053,
+     "isim": "Kobalt Kuru Kafaları"
+    },
+    {
+     "id": 10055,
+     "isim": "Koli Bandı"
+    },
+    {
+     "id": 10082,
+     "isim": "Zürafa"
+    },
+    {
+     "id": 10010,
+     "isim": "Çam DDPAT"
+    },
+    {
+     "id": 10036,
+     "isim": "Çorak Arazi"
+    },
+    {
+     "id": 10081,
+     "isim": "Çöl Poşusu"
+    },
+    {
+     "id": 10054,
+     "isim": "Üst Baskı"
+    }
+   ]
+  },
+  {
+   "defindex": 5035,
+   "ad": "studded_hydra_gloves",
+   "isim": "Hydra Eldivenleri",
+   "skinler": [
+    {
+     "id": 10058,
+     "isim": "Mangrov"
+    },
+    {
+     "id": 10060,
+     "isim": "Sertleştirilmiş Kabuk"
+    },
+    {
+     "id": 10057,
+     "isim": "Zümrüt"
+    },
+    {
+     "id": 10059,
+     "isim": "Çıngıraklı Yılan"
+    }
+   ]
+  },
+  {
+   "defindex": 5027,
+   "ad": "studded_bloodhound_gloves",
+   "isim": "Kan Tazısı Eldivenleri",
+   "skinler": [
+    {
+     "id": 10006,
+     "isim": "Alazlanmış"
+    },
+    {
+     "id": 10008,
+     "isim": "Bronzlaştırılmış"
+    },
+    {
+     "id": 10039,
+     "isim": "Gerilla"
+    },
+    {
+     "id": 10007,
+     "isim": "Yılan Isırığı"
+    }
+   ]
+  },
+  {
+   "defindex": 4725,
+   "ad": "studded_brokenfang_gloves",
+   "isim": "Kırık Diş Eldivenleri",
+   "skinler": [
+    {
+     "id": 10088,
+     "isim": "Gevşek Çene"
+    },
+    {
+     "id": 10086,
+     "isim": "Sarı Çizgili"
+    },
+    {
+     "id": 10085,
+     "isim": "Yeşim"
+    },
+    {
+     "id": 10087,
+     "isim": "İğne Ucu"
+    }
+   ]
+  },
+  {
+   "defindex": 5033,
+   "ad": "motorcycle_gloves",
+   "isim": "Motorcu Eldivenleri",
+   "skinler": [
+    {
+     "id": 10080,
+     "isim": "3. Komando Bölüğü"
+    },
+    {
+     "id": 10077,
+     "isim": "Bitiş Çizgisi"
+    },
+    {
+     "id": 10027,
+     "isim": "Boom!"
+    },
+    {
+     "id": 10078,
+     "isim": "Egzoz Dumanı"
+    },
+    {
+     "id": 10050,
+     "isim": "Kaplumbağa"
+    },
+    {
+     "id": 10051,
+     "isim": "Nakil"
+    },
+    {
+     "id": 10049,
+     "isim": "POW!"
+    },
+    {
+     "id": 10052,
+     "isim": "Poligon"
+    },
+    {
+     "id": 10028,
+     "isim": "Serin Esinti"
+    },
+    {
+     "id": 10079,
+     "isim": "Tansiyon"
+    },
+    {
+     "id": 10024,
+     "isim": "Tutulma"
+    },
+    {
+     "id": 10026,
+     "isim": "Yeşil Nane"
+    }
+   ]
+  },
+  {
+   "defindex": 5030,
+   "ad": "sporty_gloves",
+   "isim": "Spor Eldivenler",
+   "skinler": [
+    {
+     "id": 10075,
+     "isim": "Al Poşu"
+    },
+    {
+     "id": 1407,
+     "isim": "Alev"
+    },
+    {
+     "id": 10045,
+     "isim": "Amfibik"
+    },
+    {
+     "id": 10046,
+     "isim": "Bronz Karışımı"
+    },
+    {
+     "id": 10074,
+     "isim": "Büyük Av"
+    },
+    {
+     "id": 1417,
+     "isim": "Ezoterik Motif"
+    },
+    {
+     "id": 1408,
+     "isim": "Krem Çizgili"
+    },
+    {
+     "id": 10019,
+     "isim": "Kurak"
+    },
+    {
+     "id": 1406,
+     "isim": "Kırağı"
+    },
+    {
+     "id": 1409,
+     "isim": "Kırmızı Yarışçı"
+    },
+    {
+     "id": 10038,
+     "isim": "Labirent"
+    },
+    {
+     "id": 1405,
+     "isim": "Mor Boncuk İşlemesi"
+    },
+    {
+     "id": 10076,
+     "isim": "Nocts"
+    },
+    {
+     "id": 10047,
+     "isim": "Omega"
+    },
+    {
+     "id": 10037,
+     "isim": "Pandora'nın Kutusu"
+    },
+    {
+     "id": 1410,
+     "isim": "Parlak Menekşe"
+    },
+    {
+     "id": 10073,
+     "isim": "Sapan"
+    },
+    {
+     "id": 10018,
+     "isim": "Süper İletken"
+    },
+    {
+     "id": 10048,
+     "isim": "Vice"
+    }
+   ]
+  },
+  {
+   "defindex": 5031,
+   "ad": "slick_gloves",
+   "isim": "Sürücü Eldivenleri",
+   "skinler": [
+    {
+     "id": 1402,
+     "isim": "Bahçe İşlemesi"
+    },
+    {
+     "id": 1398,
+     "isim": "Dalga Avcısı"
+    },
+    {
+     "id": 1401,
+     "isim": "Ejderha Yumruklar"
+    },
+    {
+     "id": 1439,
+     "isim": "El Kazağı"
+    },
+    {
+     "id": 10043,
+     "isim": "Geçiş"
+    },
+    {
+     "id": 10013,
+     "isim": "Gümüş Örgü"
+    },
+    {
+     "id": 10070,
+     "isim": "Kar Leoparı"
+    },
+    {
+     "id": 10015,
+     "isim": "Konvoy"
+    },
+    {
+     "id": 10041,
+     "isim": "Kral Yılanı"
+    },
+    {
+     "id": 10071,
+     "isim": "Kraliçe Jaguar"
+    },
+    {
+     "id": 10069,
+     "isim": "Kırmızı Rezan"
+    },
+    {
+     "id": 10016,
+     "isim": "Kızıl Örgü"
+    },
+    {
+     "id": 1412,
+     "isim": "Mor Kabartma"
+    },
+    {
+     "id": 1404,
+     "isim": "Seigaiha"
+    },
+    {
+     "id": 10072,
+     "isim": "Siyah Kravat"
+    },
+    {
+     "id": 10044,
+     "isim": "Yarış Yeşili"
+    },
+    {
+     "id": 10040,
+     "isim": "Çıngıraklı Yılan"
+    },
+    {
+     "id": 10042,
+     "isim": "İmparatorluk Ekosesi"
+    },
+    {
+     "id": 1399,
+     "isim": "İşlemeli Turna"
+    },
+    {
+     "id": 1400,
+     "isim": "İşlemeli Çiçekler"
+    }
+   ]
+  },
+  {
+   "defindex": 5034,
+   "ad": "specialist_gloves",
+   "isim": "Uzman Eldivenleri",
+   "skinler": [
+    {
+     "id": 1413,
+     "isim": "Açık Yeşil Kamuflaj"
+    },
+    {
+     "id": 10066,
+     "isim": "Binbaşı"
+    },
+    {
+     "id": 1440,
+     "isim": "Bulut Avcısı"
+    },
+    {
+     "id": 1437,
+     "isim": "Dev Dalga"
+    },
+    {
+     "id": 1416,
+     "isim": "Güneş Patlaması"
+    },
+    {
+     "id": 1415,
+     "isim": "Kapitone Çikolata"
+    },
+    {
+     "id": 10067,
+     "isim": "Kaplan Saldırısı"
+    },
+    {
+     "id": 1414,
+     "isim": "Kara Kitap"
+    },
+    {
+     "id": 10061,
+     "isim": "Kızıl Ağ"
+    },
+    {
+     "id": 10033,
+     "isim": "Kızıl Kimono"
+    },
+    {
+     "id": 10064,
+     "isim": "Mogul"
+    },
+    {
+     "id": 10030,
+     "isim": "Orman DDPAT"
+    },
+    {
+     "id": 10068,
+     "isim": "Saha Ajanı"
+    },
+    {
+     "id": 10062,
+     "isim": "Saçma"
+    },
+    {
+     "id": 10063,
+     "isim": "Solgun"
+    },
+    {
+     "id": 10065,
+     "isim": "Solgun Mermer"
+    },
+    {
+     "id": 10035,
+     "isim": "Temel"
+    },
+    {
+     "id": 1438,
+     "isim": "Yastık Yumruklar"
+    },
+    {
+     "id": 10034,
+     "isim": "Zümrüt Ağ"
+    }
+   ]
+  }
+ ],
+ "ajanlar": [
+  {
+   "defindex": 4619,
+   "model": "ctm_st6/ctm_st6_variantj",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantj.vmdl",
+   "takim": "ct",
+   "isim": "\"Yaban Mersini\" Saçma | NSWC SEAL"
+  },
+  {
+   "defindex": 4680,
+   "model": "ctm_st6/ctm_st6_variantl",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantl.vmdl",
+   "takim": "ct",
+   "isim": "\"Çift Dikiş\" McCoy | TACP Süvarisi"
+  },
+  {
+   "defindex": 5403,
+   "model": "ctm_st6/ctm_st6_variantm",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantm.vmdl",
+   "takim": "ct",
+   "isim": "\"Çift Dikiş\" McCoy | USAF TACP"
+  },
+  {
+   "defindex": 5400,
+   "model": "ctm_st6/ctm_st6_variantk",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantk.vmdl",
+   "takim": "ct",
+   "isim": "3. Komando Bölüğü | KSK"
+  },
+  {
+   "defindex": 5305,
+   "model": "ctm_fbi/ctm_fbi_variantf",
+   "yol": "agents/models/ctm_fbi/ctm_fbi_variantf.vmdl",
+   "takim": "ct",
+   "isim": "Ajan | FBI SWAT"
+  },
+  {
+   "defindex": 4752,
+   "model": "ctm_gendarmerie/ctm_gendarmerie_variantd",
+   "yol": "agents/models/ctm_gendarmerie/ctm_gendarmerie_variantd.vmdl",
+   "takim": "ct",
+   "isim": "Aspirant | Gendarmerie Nationale"
+  },
+  {
+   "defindex": 5601,
+   "model": "ctm_sas/ctm_sas_variantf",
+   "yol": "agents/models/ctm_sas/ctm_sas_variantf.vmdl",
+   "takim": "ct",
+   "isim": "B Bölüğü Subayı | SAS"
+  },
+  {
+   "defindex": 4715,
+   "model": "ctm_swat/ctm_swat_varianti",
+   "yol": "agents/models/ctm_swat/ctm_swat_varianti.vmdl",
+   "takim": "ct",
+   "isim": "Başçavuş Bombson | SWAT"
+  },
+  {
+   "defindex": 5404,
+   "model": "ctm_st6/ctm_st6_varianti",
+   "yol": "agents/models/ctm_st6/ctm_st6_varianti.vmdl",
+   "takim": "ct",
+   "isim": "Binbaşı Ricksaw | NSWC SEAL"
+  },
+  {
+   "defindex": 4714,
+   "model": "ctm_swat/ctm_swat_varianth",
+   "yol": "agents/models/ctm_swat/ctm_swat_varianth.vmdl",
+   "takim": "ct",
+   "isim": "Biyolojik Tehlike Uzmanı | SWAT"
+  },
+  {
+   "defindex": 4757,
+   "model": "ctm_diver/ctm_diver_varianta",
+   "yol": "agents/models/ctm_diver/ctm_diver_varianta.vmdl",
+   "takim": "ct",
+   "isim": "Bnb. Davida \"Gözlük\" Fernandez | SEAL Kurbağa Adamı"
+  },
+  {
+   "defindex": 4771,
+   "model": "ctm_diver/ctm_diver_variantb",
+   "yol": "agents/models/ctm_diver/ctm_diver_variantb.vmdl",
+   "takim": "ct",
+   "isim": "Bnb. Frank \"Islak Çorap\" Baroud | SEAL Kurbağa Adamı"
+  },
+  {
+   "defindex": 4711,
+   "model": "ctm_swat/ctm_swat_variante",
+   "yol": "agents/models/ctm_swat/ctm_swat_variante.vmdl",
+   "takim": "ct",
+   "isim": "Bnb. Mae \"Donuk\" Jamison | SWAT"
+  },
+  {
+   "defindex": 4751,
+   "model": "ctm_gendarmerie/ctm_gendarmerie_variantc",
+   "yol": "agents/models/ctm_gendarmerie/ctm_gendarmerie_variantc.vmdl",
+   "takim": "ct",
+   "isim": "Chef d'Escadron Rouchard | Gendarmerie Nationale"
+  },
+  {
+   "defindex": 4750,
+   "model": "ctm_gendarmerie/ctm_gendarmerie_variantb",
+   "yol": "agents/models/ctm_gendarmerie/ctm_gendarmerie_variantb.vmdl",
+   "takim": "ct",
+   "isim": "Chem-Haz Capitaine | Gendarmerie Nationale"
+  },
+  {
+   "defindex": 5602,
+   "model": "ctm_sas/ctm_sas_variantg",
+   "yol": "agents/models/ctm_sas/ctm_sas_variantg.vmdl",
+   "takim": "ct",
+   "isim": "D Bölüğü Subayı | NZSAS"
+  },
+  {
+   "defindex": 4713,
+   "model": "ctm_swat/ctm_swat_variantg",
+   "yol": "agents/models/ctm_swat/ctm_swat_variantg.vmdl",
+   "takim": "ct",
+   "isim": "John \"Van Healen\" Kask | SWAT"
+  },
+  {
+   "defindex": 4716,
+   "model": "ctm_swat/ctm_swat_variantj",
+   "yol": "agents/models/ctm_swat/ctm_swat_variantj.vmdl",
+   "takim": "ct",
+   "isim": "Kimyasal Tehlike Uzmanı | SWAT"
+  },
+  {
+   "defindex": 5306,
+   "model": "ctm_fbi/ctm_fbi_variantg",
+   "yol": "agents/models/ctm_fbi/ctm_fbi_variantg.vmdl",
+   "takim": "ct",
+   "isim": "Markus Delrow | FBI Rehine Kurtarma Ekibi"
+  },
+  {
+   "defindex": 5307,
+   "model": "ctm_fbi/ctm_fbi_varianth",
+   "yol": "agents/models/ctm_fbi/ctm_fbi_varianth.vmdl",
+   "takim": "ct",
+   "isim": "Michael Syfers  | FBI Keskin Nişancısı"
+  },
+  {
+   "defindex": 4753,
+   "model": "ctm_gendarmerie/ctm_gendarmerie_variante",
+   "yol": "agents/models/ctm_gendarmerie/ctm_gendarmerie_variante.vmdl",
+   "takim": "ct",
+   "isim": "Officier Jacques Beltram | Gendarmerie Nationale"
+  },
+  {
+   "defindex": 5405,
+   "model": "ctm_st6/ctm_st6_variantn",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantn.vmdl",
+   "takim": "ct",
+   "isim": "Primeiro Tenente | Brezilya 1. Taburu"
+  },
+  {
+   "defindex": 5402,
+   "model": "ctm_st6/ctm_st6_variantg",
+   "yol": "agents/models/ctm_st6/ctm_st6_variantg.vmdl",
+   "takim": "ct",
+   "isim": "Saçma | NSWC SEAL"
+  },
+  {
+   "defindex": 5401,
+   "model": "ctm_st6/ctm_st6_variante",
+   "yol": "agents/models/ctm_st6/ctm_st6_variante.vmdl",
+   "takim": "ct",
+   "isim": "Seal Team 6 Askeri | NSWC SEAL"
+  },
+  {
+   "defindex": 4749,
+   "model": "ctm_gendarmerie/ctm_gendarmerie_varianta",
+   "yol": "agents/models/ctm_gendarmerie/ctm_gendarmerie_varianta.vmdl",
+   "takim": "ct",
+   "isim": "Sous-Lieutenant Medic | Gendarmerie Nationale"
+  },
+  {
+   "defindex": 5308,
+   "model": "ctm_fbi/ctm_fbi_variantb",
+   "yol": "agents/models/ctm_fbi/ctm_fbi_variantb.vmdl",
+   "takim": "ct",
+   "isim": "Özel Ajan Ava | FBI"
+  },
+  {
+   "defindex": 4756,
+   "model": "ctm_swat/ctm_swat_variantk",
+   "yol": "agents/models/ctm_swat/ctm_swat_variantk.vmdl",
+   "takim": "ct",
+   "isim": "Üsteğmen \"Ağaç Sevici\" Farlow | SWAT"
+  },
+  {
+   "defindex": 4712,
+   "model": "ctm_swat/ctm_swat_variantf",
+   "yol": "agents/models/ctm_swat/ctm_swat_variantf.vmdl",
+   "takim": "ct",
+   "isim": "Üsteğmen Farlow | SWAT"
+  },
+  {
+   "defindex": 4772,
+   "model": "ctm_diver/ctm_diver_variantc",
+   "yol": "agents/models/ctm_diver/ctm_diver_variantc.vmdl",
+   "takim": "ct",
+   "isim": "Üsteğmen Rex Krikey | SEAL Kurbağa Adamı"
+  },
+  {
+   "defindex": 5504,
+   "model": "tm_balkan/tm_balkan_varianth",
+   "yol": "agents/models/tm_balkan/tm_balkan_varianth.vmdl",
+   "takim": "t",
+   "isim": "\"Doktor\" Romanov | Sabre"
+  },
+  {
+   "defindex": 4780,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantb2",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantb2.vmdl",
+   "takim": "t",
+   "isim": "\"Orta Pişmiş\" Crasswater | Gerilla Savaşı"
+  },
+  {
+   "defindex": 4776,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantd",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantd.vmdl",
+   "takim": "t",
+   "isim": "Albay Mangos Dabisi | Gerilla Savaşı"
+  },
+  {
+   "defindex": 5205,
+   "model": "tm_phoenix/tm_phoenix_varianth",
+   "yol": "agents/models/tm_phoenix/tm_phoenix_varianth.vmdl",
+   "takim": "t",
+   "isim": "Asker | Anka"
+  },
+  {
+   "defindex": 4781,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantf2",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantf2.vmdl",
+   "takim": "t",
+   "isim": "Avcı | Gerilla Savaşı"
+  },
+  {
+   "defindex": 4775,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantc",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantc.vmdl",
+   "takim": "t",
+   "isim": "Azman Arno | Gerilla Savaşı"
+  },
+  {
+   "defindex": 5502,
+   "model": "tm_balkan/tm_balkan_variantg",
+   "yol": "agents/models/tm_balkan/tm_balkan_variantg.vmdl",
+   "takim": "t",
+   "isim": "Becerikli Rezan | Sabre"
+  },
+  {
+   "defindex": 4777,
+   "model": "tm_jungle_raider/tm_jungle_raider_variante",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variante.vmdl",
+   "takim": "t",
+   "isim": "Devrimden Vypa Sista | Gerilla Savaşı"
+  },
+  {
+   "defindex": 4730,
+   "model": "tm_professional/tm_professional_varj",
+   "yol": "agents/models/tm_professional/tm_professional_varj.vmdl",
+   "takim": "t",
+   "isim": "Doğaçlama Ustası Sally | Profesyoneller"
+  },
+  {
+   "defindex": 5500,
+   "model": "tm_balkan/tm_balkan_variantf",
+   "yol": "agents/models/tm_balkan/tm_balkan_variantf.vmdl",
+   "takim": "t",
+   "isim": "Dragomir | Sabre"
+  },
+  {
+   "defindex": 5505,
+   "model": "tm_balkan/tm_balkan_variantl",
+   "yol": "agents/models/tm_balkan/tm_balkan_variantl.vmdl",
+   "takim": "t",
+   "isim": "Dragomir | Sabre Askeri"
+  },
+  {
+   "defindex": 5503,
+   "model": "tm_balkan/tm_balkan_variantj",
+   "yol": "agents/models/tm_balkan/tm_balkan_variantj.vmdl",
+   "takim": "t",
+   "isim": "Kara Kurt | Sabre"
+  },
+  {
+   "defindex": 4727,
+   "model": "tm_professional/tm_professional_varg",
+   "yol": "agents/models/tm_professional/tm_professional_varg.vmdl",
+   "takim": "t",
+   "isim": "Kasa Hırsızı Voltzmann | Profesyoneller"
+  },
+  {
+   "defindex": 4728,
+   "model": "tm_professional/tm_professional_varh",
+   "yol": "agents/models/tm_professional/tm_professional_varh.vmdl",
+   "takim": "t",
+   "isim": "Küçük Kev | Profesyoneller"
+  },
+  {
+   "defindex": 4718,
+   "model": "tm_balkan/tm_balkan_variantk",
+   "yol": "agents/models/tm_balkan/tm_balkan_variantk.vmdl",
+   "takim": "t",
+   "isim": "Kırmızı Gömlek Rezan | Sabre"
+  },
+  {
+   "defindex": 5501,
+   "model": "tm_balkan/tm_balkan_varianti",
+   "yol": "agents/models/tm_balkan/tm_balkan_varianti.vmdl",
+   "takim": "t",
+   "isim": "Maximus | Sabre"
+  },
+  {
+   "defindex": 4613,
+   "model": "tm_professional/tm_professional_varf5",
+   "yol": "agents/models/tm_professional/tm_professional_varf5.vmdl",
+   "takim": "t",
+   "isim": "Meteliksiz Kanlı Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 5109,
+   "model": "tm_leet/tm_leet_variantj",
+   "yol": "agents/models/tm_leet/tm_leet_variantj.vmdl",
+   "takim": "t",
+   "isim": "Orman Asisi | Seçkin Tayfa"
+  },
+  {
+   "defindex": 5106,
+   "model": "tm_leet/tm_leet_varianth",
+   "yol": "agents/models/tm_leet/tm_leet_varianth.vmdl",
+   "takim": "t",
+   "isim": "Osiris | Seçkin Tayfa"
+  },
+  {
+   "defindex": 5107,
+   "model": "tm_leet/tm_leet_varianti",
+   "yol": "agents/models/tm_leet/tm_leet_varianti.vmdl",
+   "takim": "t",
+   "isim": "Prof. Şahmat | Seçkin Tayfa"
+  },
+  {
+   "defindex": 5105,
+   "model": "tm_leet/tm_leet_variantg",
+   "yol": "agents/models/tm_leet/tm_leet_variantg.vmdl",
+   "takim": "t",
+   "isim": "Saha Asisi  | Seçkin Tayfa"
+  },
+  {
+   "defindex": 4778,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantf",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantf.vmdl",
+   "takim": "t",
+   "isim": "Saldırgan Avcı | Gerilla Savaşı"
+  },
+  {
+   "defindex": 5207,
+   "model": "tm_phoenix/tm_phoenix_variantg",
+   "yol": "agents/models/tm_phoenix/tm_phoenix_variantg.vmdl",
+   "takim": "t",
+   "isim": "Sapan | Anka"
+  },
+  {
+   "defindex": 4732,
+   "model": "tm_professional/tm_professional_vari",
+   "yol": "agents/models/tm_professional/tm_professional_vari.vmdl",
+   "takim": "t",
+   "isim": "Sayı K | Profesyoneller"
+  },
+  {
+   "defindex": 4773,
+   "model": "tm_jungle_raider/tm_jungle_raider_varianta",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_varianta.vmdl",
+   "takim": "t",
+   "isim": "Seçkin Avcı Solman | Gerilla Savaşı"
+  },
+  {
+   "defindex": 5108,
+   "model": "tm_leet/tm_leet_variantf",
+   "yol": "agents/models/tm_leet/tm_leet_variantf.vmdl",
+   "takim": "t",
+   "isim": "Seçkin Bay Muhlik | Seçkin Tayfa"
+  },
+  {
+   "defindex": 5208,
+   "model": "tm_phoenix/tm_phoenix_varianti",
+   "yol": "agents/models/tm_phoenix/tm_phoenix_varianti.vmdl",
+   "takim": "t",
+   "isim": "Sokak Askeri | Anka"
+  },
+  {
+   "defindex": 4736,
+   "model": "tm_professional/tm_professional_varf4",
+   "yol": "agents/models/tm_professional/tm_professional_varf4.vmdl",
+   "takim": "t",
+   "isim": "Sör Kanlı Geveze Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 4734,
+   "model": "tm_professional/tm_professional_varf2",
+   "yol": "agents/models/tm_professional/tm_professional_varf2.vmdl",
+   "takim": "t",
+   "isim": "Sör Kanlı Kurukafa Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 4726,
+   "model": "tm_professional/tm_professional_varf",
+   "yol": "agents/models/tm_professional/tm_professional_varf.vmdl",
+   "takim": "t",
+   "isim": "Sör Kanlı Miami Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 4735,
+   "model": "tm_professional/tm_professional_varf3",
+   "yol": "agents/models/tm_professional/tm_professional_varf3.vmdl",
+   "takim": "t",
+   "isim": "Sör Kanlı Royale Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 4733,
+   "model": "tm_professional/tm_professional_varf1",
+   "yol": "agents/models/tm_professional/tm_professional_varf1.vmdl",
+   "takim": "t",
+   "isim": "Sör Kanlı Sessiz Darryl | Profesyoneller"
+  },
+  {
+   "defindex": 4774,
+   "model": "tm_jungle_raider/tm_jungle_raider_variantb",
+   "yol": "agents/models/tm_jungle_raider/tm_jungle_raider_variantb.vmdl",
+   "takim": "t",
+   "isim": "Unutulmuş Crasswater | Gerilla Savaşı"
+  },
+  {
+   "defindex": 5206,
+   "model": "tm_phoenix/tm_phoenix_variantf",
+   "yol": "agents/models/tm_phoenix/tm_phoenix_variantf.vmdl",
+   "takim": "t",
+   "isim": "İnfazcı | Anka"
+  }
+ ],
+ "muzikler": [
+  {
+   "id": 62,
+   "isim": "3kliksphilip, Heading for the Source"
+  },
+  {
+   "id": 98,
+   "isim": "ALRT, DOPAMINE HIT"
+  },
+  {
+   "id": 24,
+   "isim": "AWOLNATION, I Am"
+  },
+  {
+   "id": 87,
+   "isim": "Adam Beyer, Red Room"
+  },
+  {
+   "id": 99,
+   "isim": "Altare, Change My Mind"
+  },
+  {
+   "id": 50,
+   "isim": "Amon Tobin, All for Dust"
+  },
+  {
+   "id": 43,
+   "isim": "Austin Wintory, Bachram"
+  },
+  {
+   "id": 9,
+   "isim": "Austin Wintory, Desert Fire"
+  },
+  {
+   "id": 54,
+   "isim": "Austin Wintory, Mocha Petal"
+  },
+  {
+   "id": 78,
+   "isim": "Austin Wintory, The Devil Went Clubbing in Georgia"
+  },
+  {
+   "id": 32,
+   "isim": "Beartooth, Aggressive"
+  },
+  {
+   "id": 29,
+   "isim": "Beartooth, Disgusting"
+  },
+  {
+   "id": 79,
+   "isim": "Ben Bromfield, Rabbit Hole"
+  },
+  {
+   "id": 33,
+   "isim": "Blitz Kids, The Good Youth"
+  },
+  {
+   "id": 55,
+   "isim": "Chipzel, ~Yellow Magic~"
+  },
+  {
+   "id": 71,
+   "isim": "DRYDEN, Feel The Power"
+  },
+  {
+   "id": 17,
+   "isim": "Damjan Mravunac, The Talos Principle"
+  },
+  {
+   "id": 3,
+   "isim": "Daniel Sadowski, Crimson Assault"
+  },
+  {
+   "id": 80,
+   "isim": "Daniel Sadowski, Dead Shot"
+  },
+  {
+   "id": 45,
+   "isim": "Daniel Sadowski, Eye of the Dragon"
+  },
+  {
+   "id": 23,
+   "isim": "Daniel Sadowski, The 8-Bit Kit"
+  },
+  {
+   "id": 16,
+   "isim": "Daniel Sadowski, Total Domination"
+  },
+  {
+   "id": 51,
+   "isim": "Darren Korb, Hades Müzik Kiti"
+  },
+  {
+   "id": 31,
+   "isim": "Darude, Moments CSGO"
+  },
+  {
+   "id": 69,
+   "isim": "Denzel Curry, ULTIMATE"
+  },
+  {
+   "id": 81,
+   "isim": "Dren McDonald, Coffee! Kofe! Kahveh!"
+  },
+  {
+   "id": 8,
+   "isim": "Dren, Death's Head Demolition"
+  },
+  {
+   "id": 44,
+   "isim": "Dren, Gunman Taco Truck"
+  },
+  {
+   "id": 7,
+   "isim": "Feed Me, High Noon"
+  },
+  {
+   "id": 56,
+   "isim": "Freaky DNA, Vici"
+  },
+  {
+   "id": 88,
+   "isim": "Ghost, Skeletá"
+  },
+  {
+   "id": 89,
+   "isim": "HEALTH, RAT WARS"
+  },
+  {
+   "id": 42,
+   "isim": "Half-Life: Alyx, Bölücü"
+  },
+  {
+   "id": 40,
+   "isim": "Halo, The Master Chief Collection"
+  },
+  {
+   "id": 63,
+   "isim": "Humanity's Last Breath, Void"
+  },
+  {
+   "id": 34,
+   "isim": "Hundredth, FREE"
+  },
+  {
+   "id": 72,
+   "isim": "ISOxo, inhuman"
+  },
+  {
+   "id": 27,
+   "isim": "Ian Hultquist, Lion's Mouth"
+  },
+  {
+   "id": 90,
+   "isim": "James and the Cold Gun, Chewing Glass"
+  },
+  {
+   "id": 57,
+   "isim": "Jesse Harlin, Astro Bellum"
+  },
+  {
+   "id": 91,
+   "isim": "Jonathan Young, Starship Velociraptor"
+  },
+  {
+   "id": 92,
+   "isim": "Juelz, Floorspace"
+  },
+  {
+   "id": 64,
+   "isim": "Juelz, Shooters"
+  },
+  {
+   "id": 73,
+   "isim": "KILL SCRIPT, All Night"
+  },
+  {
+   "id": 21,
+   "isim": "Kelly Bailey, Hazardous Environments"
+  },
+  {
+   "id": 19,
+   "isim": "Ki:Theory, MOLOTOV"
+  },
+  {
+   "id": 93,
+   "isim": "Killer Mike, MICHAEL"
+  },
+  {
+   "id": 74,
+   "isim": "Knock2, Make U SWEAT!"
+  },
+  {
+   "id": 65,
+   "isim": "Knock2, dashstar*"
+  },
+  {
+   "id": 58,
+   "isim": "Laura Shigihara: Work Hard, Play Hard"
+  },
+  {
+   "id": 30,
+   "isim": "Lennie Moore, Java Havana Funkaloo"
+  },
+  {
+   "id": 14,
+   "isim": "Mateo Messina, For No Mankind"
+  },
+  {
+   "id": 13,
+   "isim": "Matt Lange, IsoRhythm"
+  },
+  {
+   "id": 82,
+   "isim": "Matt Levine, Agency"
+  },
+  {
+   "id": 49,
+   "isim": "Matt Levine, Drifter"
+  },
+  {
+   "id": 66,
+   "isim": "Meechy Darko, Gothic Luxury"
+  },
+  {
+   "id": 26,
+   "isim": "Michael Bross, Invasion!"
+  },
+  {
+   "id": 12,
+   "isim": "Midnight Riders, All I Want for Christmas"
+  },
+  {
+   "id": 25,
+   "isim": "Mord Fustang, Diamonds"
+  },
+  {
+   "id": 35,
+   "isim": "Neck Deep, Life's Not Out To Get You"
+  },
+  {
+   "id": 52,
+   "isim": "Neck Deep, The Lowlife Pack"
+  },
+  {
+   "id": 28,
+   "isim": "New Beat Fund, Sponge Fingerz"
+  },
+  {
+   "id": 4,
+   "isim": "Noisia, Sharpened"
+  },
+  {
+   "id": 94,
+   "isim": "PVRIS, Evergreen"
+  },
+  {
+   "id": 86,
+   "isim": "Perfect World, Ay Hey"
+  },
+  {
+   "id": 68,
+   "isim": "Perfect World, 花脸 Hua Lian (Painted Face)"
+  },
+  {
+   "id": 101,
+   "isim": "Pirapus, EVERYNITE"
+  },
+  {
+   "id": 18,
+   "isim": "Proxy, Battlepack"
+  },
+  {
+   "id": 75,
+   "isim": "Rad Cat, Reason"
+  },
+  {
+   "id": 102,
+   "isim": "Repiet & Julia Kleijn, On And On"
+  },
+  {
+   "id": 36,
+   "isim": "Roam, Backbone"
+  },
+  {
+   "id": 5,
+   "isim": "Robert Allaire, Insurgency"
+  },
+  {
+   "id": 48,
+   "isim": "Sam Marshall, Bodacious"
+  },
+  {
+   "id": 83,
+   "isim": "Sam Marshall, Clutch"
+  },
+  {
+   "id": 59,
+   "isim": "Sarah Schachner, KOLIBRI"
+  },
+  {
+   "id": 10,
+   "isim": "Sasha, LNOE"
+  },
+  {
+   "id": 53,
+   "isim": "Scarlxrd, CHAIN$AW.LXADXUT."
+  },
+  {
+   "id": 41,
+   "isim": "Scarlxrd: King, Scar"
+  },
+  {
+   "id": 6,
+   "isim": "Sean Murray, A*D*8"
+  },
+  {
+   "id": 95,
+   "isim": "Selective Response, No Love Only Pleasure"
+  },
+  {
+   "id": 103,
+   "isim": "ShockOne, Voices"
+  },
+  {
+   "id": 22,
+   "isim": "Skog, II-Headshot"
+  },
+  {
+   "id": 38,
+   "isim": "Skog, III-Arena"
+  },
+  {
+   "id": 11,
+   "isim": "Skog, Metal"
+  },
+  {
+   "id": 104,
+   "isim": "Starjunk 95, Industrial Sunset Memories"
+  },
+  {
+   "id": 67,
+   "isim": "Sullivan King, Lock Me Up"
+  },
+  {
+   "id": 76,
+   "isim": "TWERL ve Ekko & Sidetrack, Under Bright Lights"
+  },
+  {
+   "id": 61,
+   "isim": "The Verkkars ve n0thing, Flashbang Dance"
+  },
+  {
+   "id": 39,
+   "isim": "The Verkkars, EZ4ENCE"
+  },
+  {
+   "id": 96,
+   "isim": "Tigercub, The Perfume of Decay"
+  },
+  {
+   "id": 84,
+   "isim": "Tim Huling, Devil's Paintbrush"
+  },
+  {
+   "id": 47,
+   "isim": "Tim Huling, Neo Noir"
+  },
+  {
+   "id": 46,
+   "isim": "Tree Adams ve Ben Bromfield, M.U.D.D. FORCE"
+  },
+  {
+   "id": 85,
+   "isim": "Tree Adams, Seventh Moon"
+  },
+  {
+   "id": 20,
+   "isim": "Troels Folmann, Uber Blasto Phone"
+  },
+  {
+   "id": 37,
+   "isim": "Twin Atlantic, GLA"
+  },
+  {
+   "id": 70,
+   "isim": "Valve, CS:GO"
+  },
+  {
+   "id": 1,
+   "isim": "Valve, Counter-Strike 2"
+  },
+  {
+   "id": 60,
+   "isim": "bbno$, u mad!"
+  },
+  {
+   "id": 100,
+   "isim": "borne, Give It To Me"
+  },
+  {
+   "id": 2,
+   "isim": "valve_02"
+  },
+  {
+   "id": 15,
+   "isim": "Çeşitli Sanatçılar, Hotline Miami"
+  }
+ ],
+ "rozetler": [
+  {
+   "defindex": 874,
+   "isim": "5 Yıllık Tecrübe Jetonu"
+  },
+  {
+   "defindex": 969,
+   "isim": "10 Yıllık Tecrübe Jetonu"
+  },
+  {
+   "defindex": 987,
+   "isim": "10. Yaş Günü Jetonu"
+  },
+  {
+   "defindex": 1331,
+   "isim": "2015 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1332,
+   "isim": "2015 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1361,
+   "isim": "2017 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1362,
+   "isim": "2017 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1363,
+   "isim": "2017 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1367,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1368,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1369,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1370,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1371,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1372,
+   "isim": "2018 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1376,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1377,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1378,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1379,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1380,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1381,
+   "isim": "2019 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4674,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4675,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4676,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4677,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4678,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4679,
+   "isim": "2020 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4737,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4738,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4739,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4740,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4741,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4742,
+   "isim": "2021 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4819,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4820,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4821,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4822,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4823,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4824,
+   "isim": "2022 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4873,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4874,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4875,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4876,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4877,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4878,
+   "isim": "2023 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4906,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4907,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4908,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4909,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4910,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4911,
+   "isim": "2024 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4951,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4952,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4953,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4954,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4955,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 4956,
+   "isim": "2025 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5270,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5271,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5272,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5273,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5274,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 5275,
+   "isim": "2026 Hizmet Madalyası"
+  },
+  {
+   "defindex": 1026,
+   "isim": "Altın Anka Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1015,
+   "isim": "Altın Bravo Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1030,
+   "isim": "Altın Firar Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4761,
+   "isim": "Altın Girdap Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4355,
+   "isim": "Altın Hydra Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1329,
+   "isim": "Altın Kan Tazısı Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4702,
+   "isim": "Altın Kırık Diş Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4552,
+   "isim": "Altın Parçalanmış Ağ Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1338,
+   "isim": "Altın Yaban Ateşi Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1318,
+   "isim": "Altın Öncü Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1003,
+   "isim": "Altın İntikam Operasyonu Jetonu"
+  },
+  {
+   "defindex": 6034,
+   "isim": "Alyx Broşu",
+   "esler": [
+    6134
+   ]
+  },
+  {
+   "defindex": 6015,
+   "isim": "Anka Broşu",
+   "esler": [
+    6115
+   ]
+  },
+  {
+   "defindex": 1024,
+   "isim": "Anka Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 6014,
+   "isim": "Baggage Broşu",
+   "esler": [
+    6114
+   ]
+  },
+  {
+   "defindex": 4688,
+   "isim": "Bakır Lambda Broşu"
+  },
+  {
+   "defindex": 4690,
+   "isim": "Black Mesa Broşu"
+  },
+  {
+   "defindex": 6013,
+   "isim": "Bravo Broşu",
+   "esler": [
+    6113
+   ]
+  },
+  {
+   "defindex": 1013,
+   "isim": "Bravo Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 4689,
+   "isim": "CMB Broşu"
+  },
+  {
+   "defindex": 6020,
+   "isim": "Cache Broşu",
+   "esler": [
+    6120
+   ]
+  },
+  {
+   "defindex": 6024,
+   "isim": "Canals Broşu",
+   "esler": [
+    6124
+   ]
+  },
+  {
+   "defindex": 6025,
+   "isim": "Clutch'a Hoş Geldiniz Broşu",
+   "esler": [
+    6125
+   ]
+  },
+  {
+   "defindex": 6017,
+   "isim": "Cobblestone Broşu",
+   "esler": [
+    6117
+   ]
+  },
+  {
+   "defindex": 6001,
+   "isim": "Dust II Broşu",
+   "esler": [
+    6101
+   ]
+  },
+  {
+   "defindex": 4762,
+   "isim": "Elmas Girdap Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4703,
+   "isim": "Elmas Kırık Diş Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4356,
+   "isim": "Elmas Operasyon Hydra Jetonu"
+  },
+  {
+   "defindex": 1339,
+   "isim": "FACEIT Seviye 1"
+  },
+  {
+   "defindex": 1340,
+   "isim": "FACEIT Seviye 2"
+  },
+  {
+   "defindex": 1341,
+   "isim": "FACEIT Seviye 3"
+  },
+  {
+   "defindex": 1342,
+   "isim": "FACEIT Seviye 4"
+  },
+  {
+   "defindex": 1343,
+   "isim": "FACEIT Seviye 5"
+  },
+  {
+   "defindex": 1344,
+   "isim": "FACEIT Seviye 6"
+  },
+  {
+   "defindex": 1357,
+   "isim": "FACEIT Seviye 7"
+  },
+  {
+   "defindex": 1358,
+   "isim": "FACEIT Seviye 8"
+  },
+  {
+   "defindex": 1359,
+   "isim": "FACEIT Seviye 9"
+  },
+  {
+   "defindex": 1360,
+   "isim": "FACEIT Seviye 10"
+  },
+  {
+   "defindex": 1028,
+   "isim": "Firar Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 4759,
+   "isim": "Girdap Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 996,
+   "isim": "Global Offensive Rozeti"
+  },
+  {
+   "defindex": 1025,
+   "isim": "Gümüş Anka Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1014,
+   "isim": "Gümüş Bravo Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1029,
+   "isim": "Gümüş Firar Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4760,
+   "isim": "Gümüş Girdap Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4354,
+   "isim": "Gümüş Hydra Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1328,
+   "isim": "Gümüş Kan Tazısı Operasyonu Jetonu"
+  },
+  {
+   "defindex": 4701,
+   "isim": "Gümüş Kırık Diş Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1337,
+   "isim": "Gümüş Yaban Ateşi Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1317,
+   "isim": "Gümüş Öncü Operasyonu Jetonu"
+  },
+  {
+   "defindex": 1002,
+   "isim": "Gümüş İntikam Operasyonu Jetonu"
+  },
+  {
+   "defindex": 6031,
+   "isim": "Hydra Broşu",
+   "esler": [
+    6131
+   ]
+  },
+  {
+   "defindex": 4353,
+   "isim": "Hydra Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 6027,
+   "isim": "Inferno 2 Broşu",
+   "esler": [
+    6127
+   ]
+  },
+  {
+   "defindex": 6004,
+   "isim": "Inferno Broşu",
+   "esler": [
+    6104
+   ]
+  },
+  {
+   "defindex": 6005,
+   "isim": "Italy Broşu",
+   "esler": [
+    6105
+   ]
+  },
+  {
+   "defindex": 4685,
+   "isim": "Kafayengeci Glifi Broşu"
+  },
+  {
+   "defindex": 6019,
+   "isim": "Kan Tazısı Broşu",
+   "esler": [
+    6119
+   ]
+  },
+  {
+   "defindex": 1327,
+   "isim": "Kan Tazısı Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 6022,
+   "isim": "Kroma Broşu",
+   "esler": [
+    6122
+   ]
+  },
+  {
+   "defindex": 4700,
+   "isim": "Kırık Diş Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 4687,
+   "isim": "Lambda Broşu"
+  },
+  {
+   "defindex": 6030,
+   "isim": "Maça Ası Broşu",
+   "esler": [
+    6130
+   ]
+  },
+  {
+   "defindex": 4682,
+   "isim": "Milis Broşu"
+  },
+  {
+   "defindex": 6007,
+   "isim": "Militia Broşu",
+   "esler": [
+    6107
+   ]
+  },
+  {
+   "defindex": 6003,
+   "isim": "Mirage Broşu",
+   "esler": [
+    6103
+   ]
+  },
+  {
+   "defindex": 6012,
+   "isim": "Muhafız 2 Broşu",
+   "esler": [
+    6112
+   ]
+  },
+  {
+   "defindex": 6023,
+   "isim": "Muhafız 3 Broşu",
+   "esler": [
+    6123
+   ]
+  },
+  {
+   "defindex": 6010,
+   "isim": "Muhafız Broşu",
+   "esler": [
+    6110
+   ]
+  },
+  {
+   "defindex": 6008,
+   "isim": "Nuke Broşu",
+   "esler": [
+    6108
+   ]
+  },
+  {
+   "defindex": 6016,
+   "isim": "Office Broşu",
+   "esler": [
+    6116
+   ]
+  },
+  {
+   "defindex": 6018,
+   "isim": "Overpass Broşu",
+   "esler": [
+    6118
+   ]
+  },
+  {
+   "defindex": 4553,
+   "isim": "Parçalanmış Ağ Operasyonu Elmas Jetonu"
+  },
+  {
+   "defindex": 4551,
+   "isim": "Parçalanmış Ağ Operasyonu Gümüş Jetonu"
+  },
+  {
+   "defindex": 4550,
+   "isim": "Parçalanmış Ağ Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 970,
+   "isim": "Sadakat Rozeti"
+  },
+  {
+   "defindex": 4686,
+   "isim": "Sağlık Broşu"
+  },
+  {
+   "defindex": 6002,
+   "isim": "Seçkin Muhafız Broşu",
+   "esler": [
+    6102
+   ]
+  },
+  {
+   "defindex": 6011,
+   "isim": "Taktik Broşu",
+   "esler": [
+    6111
+   ]
+  },
+  {
+   "defindex": 6009,
+   "isim": "Train Broşu",
+   "esler": [
+    6109
+   ]
+  },
+  {
+   "defindex": 6033,
+   "isim": "Tuğgeneral Broşu",
+   "esler": [
+    6133
+   ]
+  },
+  {
+   "defindex": 6032,
+   "isim": "Uluma Broşu",
+   "esler": [
+    6132
+   ]
+  },
+  {
+   "defindex": 6021,
+   "isim": "Valeria Phoenix Broşu",
+   "esler": [
+    6121
+   ]
+  },
+  {
+   "defindex": 4684,
+   "isim": "Vortigaunt Broşu"
+  },
+  {
+   "defindex": 6028,
+   "isim": "Yaban Ateşi Broşu",
+   "esler": [
+    6128
+   ]
+  },
+  {
+   "defindex": 1336,
+   "isim": "Yaban Ateşi Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 4683,
+   "isim": "Yiyecek! Broşu"
+  },
+  {
+   "defindex": 6006,
+   "isim": "Zafer Broşu",
+   "esler": [
+    6106
+   ]
+  },
+  {
+   "defindex": 6029,
+   "isim": "Çocuk Oyuncağı Broşu",
+   "esler": [
+    6129
+   ]
+  },
+  {
+   "defindex": 6026,
+   "isim": "Ölüm Cezası Broşu",
+   "esler": [
+    6126
+   ]
+  },
+  {
+   "defindex": 1316,
+   "isim": "Öncü Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 1001,
+   "isim": "İntikam Operasyonu Mücadele Jetonu"
+  },
+  {
+   "defindex": 4691,
+   "isim": "İttifak Miğferi Broşu"
+  },
+  {
+   "defindex": 4692,
+   "isim": "Şehir 17 Broşu"
+  }
+ ]
+}

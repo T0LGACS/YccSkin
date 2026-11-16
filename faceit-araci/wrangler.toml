@@ -1,0 +1,9 @@
+# Worker'ı İstanbul yerine Frankfurt'ta çalıştırır: FACEIT, İstanbul'dan çıkan isteği "Just a moment" ile engelliyor (2026-11-16).
+# Gizli değişkenler (FACEIT_ANAHTAR, YCC_SIFRE) Cloudflare panelinde durur, deploy onlara dokunmaz.
+name = "ycc-faceit"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+keep_vars = true
+
+[placement]
+region = "aws:eu-central-1"
